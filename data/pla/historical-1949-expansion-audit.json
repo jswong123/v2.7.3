@@ -1,0 +1,15 @@
+{
+  "version": "2.1.19",
+  "scope": "formation catalog only",
+  "addedEntries": 123,
+  "sourceUrls": [
+    "https://shandong-chorography.org/database/a/section/17/article/155/",
+    "https://www.mod.gov.cn/2018gfbztlbmb/2019-02/06/content_4835866.htm"
+  ],
+  "caveats": [
+    "Only 1949 third field army high-level structure crosschecked against Shandong gazetteer",
+    "Other field army corps structures are provisional research index pending primary-source verification",
+    "Liu Laozhuang company belongs to 1943 anti-Japanese war, not 1949 campaign",
+    "No combat or scenario unit data modified"
+  ]
+}

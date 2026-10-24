@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "codeFormat": "ab{brigadeNumber}B",
+  "authenticityDefault": "fictional_placeholder",
+  "noDuplicateUnitIdPerBattle": true,
+  "battalionCardLocksSubordinateCompanyCards": true,
+  "deploymentDoesNotResetLosses": true,
+  "honorMustHaveVerifiedAssignment": true,
+  "transportBudgetRequired": true,
+  "notes": "编制和车辆配额为游戏平衡模板，非真实军事编制或实装数量"
+}

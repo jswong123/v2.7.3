@@ -1,0 +1,2096 @@
+[
+  {
+    "id": "ab127B-BN1",
+    "parentId": "ab127B",
+    "code": "ab127B/1BN",
+    "name": "第127空降旅第1空降合成营",
+    "echelon": "battalion",
+    "role": "airborne_combined",
+    "vehicles": {
+      "lynx_transport": 8,
+      "lynx_fire_support": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab127B-BN1-C1",
+    "parentId": "ab127B-BN1",
+    "code": "ab127B/1BN/1CO",
+    "name": "第127空降旅第1营第1空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab127B-BN1-C2",
+    "parentId": "ab127B-BN1",
+    "code": "ab127B/1BN/2CO",
+    "name": "第127空降旅第1营第2空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab127B-BN1-C3",
+    "parentId": "ab127B-BN1",
+    "code": "ab127B/1BN/3CO",
+    "name": "第127空降旅第1营第3空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab127B-BN1-FIRE_SUPPORT",
+    "parentId": "ab127B-BN1",
+    "code": "ab127B/1BN/fire_support",
+    "name": "第127空降旅第1营火力连",
+    "echelon": "company",
+    "role": "fire_support",
+    "vehicles": {
+      "lynx_mortar": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab127B-BN1-RECON",
+    "parentId": "ab127B-BN1",
+    "code": "ab127B/1BN/recon",
+    "name": "第127空降旅第1营侦察排",
+    "echelon": "platoon",
+    "role": "recon",
+    "vehicles": {
+      "lynx_recon": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab127B-BN1-ENGINEER",
+    "parentId": "ab127B-BN1",
+    "code": "ab127B/1BN/engineer",
+    "name": "第127空降旅第1营工兵排",
+    "echelon": "platoon",
+    "role": "engineer",
+    "vehicles": {
+      "lynx_engineer": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab127B-BN2",
+    "parentId": "ab127B",
+    "code": "ab127B/2BN",
+    "name": "第127空降旅第2空降合成营",
+    "echelon": "battalion",
+    "role": "airborne_combined",
+    "vehicles": {
+      "lynx_transport": 8,
+      "lynx_fire_support": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab127B-BN2-C1",
+    "parentId": "ab127B-BN2",
+    "code": "ab127B/2BN/1CO",
+    "name": "第127空降旅第2营第1空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab127B-BN2-C2",
+    "parentId": "ab127B-BN2",
+    "code": "ab127B/2BN/2CO",
+    "name": "第127空降旅第2营第2空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab127B-BN2-C3",
+    "parentId": "ab127B-BN2",
+    "code": "ab127B/2BN/3CO",
+    "name": "第127空降旅第2营第3空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab127B-BN2-FIRE_SUPPORT",
+    "parentId": "ab127B-BN2",
+    "code": "ab127B/2BN/fire_support",
+    "name": "第127空降旅第2营火力连",
+    "echelon": "company",
+    "role": "fire_support",
+    "vehicles": {
+      "lynx_mortar": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab127B-BN2-RECON",
+    "parentId": "ab127B-BN2",
+    "code": "ab127B/2BN/recon",
+    "name": "第127空降旅第2营侦察排",
+    "echelon": "platoon",
+    "role": "recon",
+    "vehicles": {
+      "lynx_recon": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab127B-BN2-ENGINEER",
+    "parentId": "ab127B-BN2",
+    "code": "ab127B/2BN/engineer",
+    "name": "第127空降旅第2营工兵排",
+    "echelon": "platoon",
+    "role": "engineer",
+    "vehicles": {
+      "lynx_engineer": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab127B-BN3",
+    "parentId": "ab127B",
+    "code": "ab127B/3BN",
+    "name": "第127空降旅第3空降合成营",
+    "echelon": "battalion",
+    "role": "airborne_combined",
+    "vehicles": {
+      "lynx_transport": 8,
+      "lynx_fire_support": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab127B-BN3-C1",
+    "parentId": "ab127B-BN3",
+    "code": "ab127B/3BN/1CO",
+    "name": "第127空降旅第3营第1空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab127B-BN3-C2",
+    "parentId": "ab127B-BN3",
+    "code": "ab127B/3BN/2CO",
+    "name": "第127空降旅第3营第2空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab127B-BN3-C3",
+    "parentId": "ab127B-BN3",
+    "code": "ab127B/3BN/3CO",
+    "name": "第127空降旅第3营第3空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab127B-BN3-FIRE_SUPPORT",
+    "parentId": "ab127B-BN3",
+    "code": "ab127B/3BN/fire_support",
+    "name": "第127空降旅第3营火力连",
+    "echelon": "company",
+    "role": "fire_support",
+    "vehicles": {
+      "lynx_mortar": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab127B-BN3-RECON",
+    "parentId": "ab127B-BN3",
+    "code": "ab127B/3BN/recon",
+    "name": "第127空降旅第3营侦察排",
+    "echelon": "platoon",
+    "role": "recon",
+    "vehicles": {
+      "lynx_recon": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab127B-BN3-ENGINEER",
+    "parentId": "ab127B-BN3",
+    "code": "ab127B/3BN/engineer",
+    "name": "第127空降旅第3营工兵排",
+    "echelon": "platoon",
+    "role": "engineer",
+    "vehicles": {
+      "lynx_engineer": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab127B-HQ",
+    "parentId": "ab127B",
+    "code": "ab127B/hq",
+    "name": "第127空降旅旅指挥部",
+    "echelon": "headquarters",
+    "role": "hq",
+    "vehicles": {},
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab127B-ARTILLERY",
+    "parentId": "ab127B",
+    "code": "ab127B/artillery",
+    "name": "第127空降旅炮兵营",
+    "echelon": "battalion",
+    "role": "artillery",
+    "vehicles": {
+      "lynx_mortar": 6
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab127B-LOGISTICS",
+    "parentId": "ab127B",
+    "code": "ab127B/logistics",
+    "name": "第127空降旅勤务保障营",
+    "echelon": "battalion",
+    "role": "logistics",
+    "vehicles": {
+      "lynx_logistics": 6
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab127B-RECON",
+    "parentId": "ab127B",
+    "code": "ab127B/recon",
+    "name": "第127空降旅直属侦察连",
+    "echelon": "company",
+    "role": "recon",
+    "vehicles": {
+      "lynx_recon": 4
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab127B-ENGINEER",
+    "parentId": "ab127B",
+    "code": "ab127B/engineer",
+    "name": "第127空降旅直属工兵连",
+    "echelon": "company",
+    "role": "engineer",
+    "vehicles": {
+      "lynx_engineer": 4
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab127B-AIR_DEFENSE",
+    "parentId": "ab127B",
+    "code": "ab127B/air_defense",
+    "name": "第127空降旅直属防空连",
+    "echelon": "company",
+    "role": "air_defense",
+    "vehicles": {
+      "lynx_air_defense": 4
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab127B-SIGNALS",
+    "parentId": "ab127B",
+    "code": "ab127B/signals",
+    "name": "第127空降旅直属通信连",
+    "echelon": "company",
+    "role": "signals",
+    "vehicles": {
+      "lynx_command": 3
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab127B-SPECIAL_FORCES",
+    "parentId": "ab127B",
+    "code": "ab127B/special_forces",
+    "name": "第127空降旅直属特战分队",
+    "echelon": "detachment",
+    "role": "special_forces",
+    "vehicles": {
+      "lynx_recon": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab128B-BN1",
+    "parentId": "ab128B",
+    "code": "ab128B/1BN",
+    "name": "第128空降旅第1空降合成营",
+    "echelon": "battalion",
+    "role": "airborne_combined",
+    "vehicles": {
+      "lynx_transport": 8,
+      "lynx_fire_support": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab128B-BN1-C1",
+    "parentId": "ab128B-BN1",
+    "code": "ab128B/1BN/1CO",
+    "name": "第128空降旅第1营第1空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab128B-BN1-C2",
+    "parentId": "ab128B-BN1",
+    "code": "ab128B/1BN/2CO",
+    "name": "第128空降旅第1营第2空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab128B-BN1-C3",
+    "parentId": "ab128B-BN1",
+    "code": "ab128B/1BN/3CO",
+    "name": "第128空降旅第1营第3空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab128B-BN1-FIRE_SUPPORT",
+    "parentId": "ab128B-BN1",
+    "code": "ab128B/1BN/fire_support",
+    "name": "第128空降旅第1营火力连",
+    "echelon": "company",
+    "role": "fire_support",
+    "vehicles": {
+      "lynx_mortar": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab128B-BN1-RECON",
+    "parentId": "ab128B-BN1",
+    "code": "ab128B/1BN/recon",
+    "name": "第128空降旅第1营侦察排",
+    "echelon": "platoon",
+    "role": "recon",
+    "vehicles": {
+      "lynx_recon": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab128B-BN1-ENGINEER",
+    "parentId": "ab128B-BN1",
+    "code": "ab128B/1BN/engineer",
+    "name": "第128空降旅第1营工兵排",
+    "echelon": "platoon",
+    "role": "engineer",
+    "vehicles": {
+      "lynx_engineer": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab128B-BN2",
+    "parentId": "ab128B",
+    "code": "ab128B/2BN",
+    "name": "第128空降旅第2空降合成营",
+    "echelon": "battalion",
+    "role": "airborne_combined",
+    "vehicles": {
+      "lynx_transport": 8,
+      "lynx_fire_support": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab128B-BN2-C1",
+    "parentId": "ab128B-BN2",
+    "code": "ab128B/2BN/1CO",
+    "name": "第128空降旅第2营第1空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab128B-BN2-C2",
+    "parentId": "ab128B-BN2",
+    "code": "ab128B/2BN/2CO",
+    "name": "第128空降旅第2营第2空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab128B-BN2-C3",
+    "parentId": "ab128B-BN2",
+    "code": "ab128B/2BN/3CO",
+    "name": "第128空降旅第2营第3空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab128B-BN2-FIRE_SUPPORT",
+    "parentId": "ab128B-BN2",
+    "code": "ab128B/2BN/fire_support",
+    "name": "第128空降旅第2营火力连",
+    "echelon": "company",
+    "role": "fire_support",
+    "vehicles": {
+      "lynx_mortar": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab128B-BN2-RECON",
+    "parentId": "ab128B-BN2",
+    "code": "ab128B/2BN/recon",
+    "name": "第128空降旅第2营侦察排",
+    "echelon": "platoon",
+    "role": "recon",
+    "vehicles": {
+      "lynx_recon": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab128B-BN2-ENGINEER",
+    "parentId": "ab128B-BN2",
+    "code": "ab128B/2BN/engineer",
+    "name": "第128空降旅第2营工兵排",
+    "echelon": "platoon",
+    "role": "engineer",
+    "vehicles": {
+      "lynx_engineer": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab128B-BN3",
+    "parentId": "ab128B",
+    "code": "ab128B/3BN",
+    "name": "第128空降旅第3空降合成营",
+    "echelon": "battalion",
+    "role": "airborne_combined",
+    "vehicles": {
+      "lynx_transport": 8,
+      "lynx_fire_support": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab128B-BN3-C1",
+    "parentId": "ab128B-BN3",
+    "code": "ab128B/3BN/1CO",
+    "name": "第128空降旅第3营第1空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab128B-BN3-C2",
+    "parentId": "ab128B-BN3",
+    "code": "ab128B/3BN/2CO",
+    "name": "第128空降旅第3营第2空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab128B-BN3-C3",
+    "parentId": "ab128B-BN3",
+    "code": "ab128B/3BN/3CO",
+    "name": "第128空降旅第3营第3空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab128B-BN3-FIRE_SUPPORT",
+    "parentId": "ab128B-BN3",
+    "code": "ab128B/3BN/fire_support",
+    "name": "第128空降旅第3营火力连",
+    "echelon": "company",
+    "role": "fire_support",
+    "vehicles": {
+      "lynx_mortar": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab128B-BN3-RECON",
+    "parentId": "ab128B-BN3",
+    "code": "ab128B/3BN/recon",
+    "name": "第128空降旅第3营侦察排",
+    "echelon": "platoon",
+    "role": "recon",
+    "vehicles": {
+      "lynx_recon": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab128B-BN3-ENGINEER",
+    "parentId": "ab128B-BN3",
+    "code": "ab128B/3BN/engineer",
+    "name": "第128空降旅第3营工兵排",
+    "echelon": "platoon",
+    "role": "engineer",
+    "vehicles": {
+      "lynx_engineer": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab128B-HQ",
+    "parentId": "ab128B",
+    "code": "ab128B/hq",
+    "name": "第128空降旅旅指挥部",
+    "echelon": "headquarters",
+    "role": "hq",
+    "vehicles": {},
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab128B-ARTILLERY",
+    "parentId": "ab128B",
+    "code": "ab128B/artillery",
+    "name": "第128空降旅炮兵营",
+    "echelon": "battalion",
+    "role": "artillery",
+    "vehicles": {
+      "lynx_mortar": 6
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab128B-LOGISTICS",
+    "parentId": "ab128B",
+    "code": "ab128B/logistics",
+    "name": "第128空降旅勤务保障营",
+    "echelon": "battalion",
+    "role": "logistics",
+    "vehicles": {
+      "lynx_logistics": 6
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab128B-RECON",
+    "parentId": "ab128B",
+    "code": "ab128B/recon",
+    "name": "第128空降旅直属侦察连",
+    "echelon": "company",
+    "role": "recon",
+    "vehicles": {
+      "lynx_recon": 4
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab128B-ENGINEER",
+    "parentId": "ab128B",
+    "code": "ab128B/engineer",
+    "name": "第128空降旅直属工兵连",
+    "echelon": "company",
+    "role": "engineer",
+    "vehicles": {
+      "lynx_engineer": 4
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab128B-AIR_DEFENSE",
+    "parentId": "ab128B",
+    "code": "ab128B/air_defense",
+    "name": "第128空降旅直属防空连",
+    "echelon": "company",
+    "role": "air_defense",
+    "vehicles": {
+      "lynx_air_defense": 4
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab128B-SIGNALS",
+    "parentId": "ab128B",
+    "code": "ab128B/signals",
+    "name": "第128空降旅直属通信连",
+    "echelon": "company",
+    "role": "signals",
+    "vehicles": {
+      "lynx_command": 3
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab128B-SPECIAL_FORCES",
+    "parentId": "ab128B",
+    "code": "ab128B/special_forces",
+    "name": "第128空降旅直属特战分队",
+    "echelon": "detachment",
+    "role": "special_forces",
+    "vehicles": {
+      "lynx_recon": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab130B-BN1",
+    "parentId": "ab130B",
+    "code": "ab130B/1BN",
+    "name": "第130空降旅第1空降合成营",
+    "echelon": "battalion",
+    "role": "airborne_combined",
+    "vehicles": {
+      "lynx_transport": 8,
+      "lynx_fire_support": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab130B-BN1-C1",
+    "parentId": "ab130B-BN1",
+    "code": "ab130B/1BN/1CO",
+    "name": "第130空降旅第1营第1空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab130B-BN1-C2",
+    "parentId": "ab130B-BN1",
+    "code": "ab130B/1BN/2CO",
+    "name": "第130空降旅第1营第2空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab130B-BN1-C3",
+    "parentId": "ab130B-BN1",
+    "code": "ab130B/1BN/3CO",
+    "name": "第130空降旅第1营第3空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab130B-BN1-FIRE_SUPPORT",
+    "parentId": "ab130B-BN1",
+    "code": "ab130B/1BN/fire_support",
+    "name": "第130空降旅第1营火力连",
+    "echelon": "company",
+    "role": "fire_support",
+    "vehicles": {
+      "lynx_mortar": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab130B-BN1-RECON",
+    "parentId": "ab130B-BN1",
+    "code": "ab130B/1BN/recon",
+    "name": "第130空降旅第1营侦察排",
+    "echelon": "platoon",
+    "role": "recon",
+    "vehicles": {
+      "lynx_recon": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab130B-BN1-ENGINEER",
+    "parentId": "ab130B-BN1",
+    "code": "ab130B/1BN/engineer",
+    "name": "第130空降旅第1营工兵排",
+    "echelon": "platoon",
+    "role": "engineer",
+    "vehicles": {
+      "lynx_engineer": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab130B-BN2",
+    "parentId": "ab130B",
+    "code": "ab130B/2BN",
+    "name": "第130空降旅第2空降合成营",
+    "echelon": "battalion",
+    "role": "airborne_combined",
+    "vehicles": {
+      "lynx_transport": 8,
+      "lynx_fire_support": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab130B-BN2-C1",
+    "parentId": "ab130B-BN2",
+    "code": "ab130B/2BN/1CO",
+    "name": "第130空降旅第2营第1空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab130B-BN2-C2",
+    "parentId": "ab130B-BN2",
+    "code": "ab130B/2BN/2CO",
+    "name": "第130空降旅第2营第2空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab130B-BN2-C3",
+    "parentId": "ab130B-BN2",
+    "code": "ab130B/2BN/3CO",
+    "name": "第130空降旅第2营第3空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab130B-BN2-FIRE_SUPPORT",
+    "parentId": "ab130B-BN2",
+    "code": "ab130B/2BN/fire_support",
+    "name": "第130空降旅第2营火力连",
+    "echelon": "company",
+    "role": "fire_support",
+    "vehicles": {
+      "lynx_mortar": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab130B-BN2-RECON",
+    "parentId": "ab130B-BN2",
+    "code": "ab130B/2BN/recon",
+    "name": "第130空降旅第2营侦察排",
+    "echelon": "platoon",
+    "role": "recon",
+    "vehicles": {
+      "lynx_recon": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab130B-BN2-ENGINEER",
+    "parentId": "ab130B-BN2",
+    "code": "ab130B/2BN/engineer",
+    "name": "第130空降旅第2营工兵排",
+    "echelon": "platoon",
+    "role": "engineer",
+    "vehicles": {
+      "lynx_engineer": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab130B-BN3",
+    "parentId": "ab130B",
+    "code": "ab130B/3BN",
+    "name": "第130空降旅第3空降合成营",
+    "echelon": "battalion",
+    "role": "airborne_combined",
+    "vehicles": {
+      "lynx_transport": 8,
+      "lynx_fire_support": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab130B-BN3-C1",
+    "parentId": "ab130B-BN3",
+    "code": "ab130B/3BN/1CO",
+    "name": "第130空降旅第3营第1空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab130B-BN3-C2",
+    "parentId": "ab130B-BN3",
+    "code": "ab130B/3BN/2CO",
+    "name": "第130空降旅第3营第2空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab130B-BN3-C3",
+    "parentId": "ab130B-BN3",
+    "code": "ab130B/3BN/3CO",
+    "name": "第130空降旅第3营第3空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab130B-BN3-FIRE_SUPPORT",
+    "parentId": "ab130B-BN3",
+    "code": "ab130B/3BN/fire_support",
+    "name": "第130空降旅第3营火力连",
+    "echelon": "company",
+    "role": "fire_support",
+    "vehicles": {
+      "lynx_mortar": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab130B-BN3-RECON",
+    "parentId": "ab130B-BN3",
+    "code": "ab130B/3BN/recon",
+    "name": "第130空降旅第3营侦察排",
+    "echelon": "platoon",
+    "role": "recon",
+    "vehicles": {
+      "lynx_recon": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab130B-BN3-ENGINEER",
+    "parentId": "ab130B-BN3",
+    "code": "ab130B/3BN/engineer",
+    "name": "第130空降旅第3营工兵排",
+    "echelon": "platoon",
+    "role": "engineer",
+    "vehicles": {
+      "lynx_engineer": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab130B-HQ",
+    "parentId": "ab130B",
+    "code": "ab130B/hq",
+    "name": "第130空降旅旅指挥部",
+    "echelon": "headquarters",
+    "role": "hq",
+    "vehicles": {},
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab130B-ARTILLERY",
+    "parentId": "ab130B",
+    "code": "ab130B/artillery",
+    "name": "第130空降旅炮兵营",
+    "echelon": "battalion",
+    "role": "artillery",
+    "vehicles": {
+      "lynx_mortar": 6
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab130B-LOGISTICS",
+    "parentId": "ab130B",
+    "code": "ab130B/logistics",
+    "name": "第130空降旅勤务保障营",
+    "echelon": "battalion",
+    "role": "logistics",
+    "vehicles": {
+      "lynx_logistics": 6
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab130B-RECON",
+    "parentId": "ab130B",
+    "code": "ab130B/recon",
+    "name": "第130空降旅直属侦察连",
+    "echelon": "company",
+    "role": "recon",
+    "vehicles": {
+      "lynx_recon": 4
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab130B-ENGINEER",
+    "parentId": "ab130B",
+    "code": "ab130B/engineer",
+    "name": "第130空降旅直属工兵连",
+    "echelon": "company",
+    "role": "engineer",
+    "vehicles": {
+      "lynx_engineer": 4
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab130B-AIR_DEFENSE",
+    "parentId": "ab130B",
+    "code": "ab130B/air_defense",
+    "name": "第130空降旅直属防空连",
+    "echelon": "company",
+    "role": "air_defense",
+    "vehicles": {
+      "lynx_air_defense": 4
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab130B-SIGNALS",
+    "parentId": "ab130B",
+    "code": "ab130B/signals",
+    "name": "第130空降旅直属通信连",
+    "echelon": "company",
+    "role": "signals",
+    "vehicles": {
+      "lynx_command": 3
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab130B-SPECIAL_FORCES",
+    "parentId": "ab130B",
+    "code": "ab130B/special_forces",
+    "name": "第130空降旅直属特战分队",
+    "echelon": "detachment",
+    "role": "special_forces",
+    "vehicles": {
+      "lynx_recon": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab131B-BN1",
+    "parentId": "ab131B",
+    "code": "ab131B/1BN",
+    "name": "第131空降旅第1空降合成营",
+    "echelon": "battalion",
+    "role": "airborne_combined",
+    "vehicles": {
+      "lynx_transport": 8,
+      "lynx_fire_support": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab131B-BN1-C1",
+    "parentId": "ab131B-BN1",
+    "code": "ab131B/1BN/1CO",
+    "name": "第131空降旅第1营第1空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab131B-BN1-C2",
+    "parentId": "ab131B-BN1",
+    "code": "ab131B/1BN/2CO",
+    "name": "第131空降旅第1营第2空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab131B-BN1-C3",
+    "parentId": "ab131B-BN1",
+    "code": "ab131B/1BN/3CO",
+    "name": "第131空降旅第1营第3空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab131B-BN1-FIRE_SUPPORT",
+    "parentId": "ab131B-BN1",
+    "code": "ab131B/1BN/fire_support",
+    "name": "第131空降旅第1营火力连",
+    "echelon": "company",
+    "role": "fire_support",
+    "vehicles": {
+      "lynx_mortar": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab131B-BN1-RECON",
+    "parentId": "ab131B-BN1",
+    "code": "ab131B/1BN/recon",
+    "name": "第131空降旅第1营侦察排",
+    "echelon": "platoon",
+    "role": "recon",
+    "vehicles": {
+      "lynx_recon": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab131B-BN1-ENGINEER",
+    "parentId": "ab131B-BN1",
+    "code": "ab131B/1BN/engineer",
+    "name": "第131空降旅第1营工兵排",
+    "echelon": "platoon",
+    "role": "engineer",
+    "vehicles": {
+      "lynx_engineer": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab131B-BN2",
+    "parentId": "ab131B",
+    "code": "ab131B/2BN",
+    "name": "第131空降旅第2空降合成营",
+    "echelon": "battalion",
+    "role": "airborne_combined",
+    "vehicles": {
+      "lynx_transport": 8,
+      "lynx_fire_support": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab131B-BN2-C1",
+    "parentId": "ab131B-BN2",
+    "code": "ab131B/2BN/1CO",
+    "name": "第131空降旅第2营第1空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab131B-BN2-C2",
+    "parentId": "ab131B-BN2",
+    "code": "ab131B/2BN/2CO",
+    "name": "第131空降旅第2营第2空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab131B-BN2-C3",
+    "parentId": "ab131B-BN2",
+    "code": "ab131B/2BN/3CO",
+    "name": "第131空降旅第2营第3空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab131B-BN2-FIRE_SUPPORT",
+    "parentId": "ab131B-BN2",
+    "code": "ab131B/2BN/fire_support",
+    "name": "第131空降旅第2营火力连",
+    "echelon": "company",
+    "role": "fire_support",
+    "vehicles": {
+      "lynx_mortar": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab131B-BN2-RECON",
+    "parentId": "ab131B-BN2",
+    "code": "ab131B/2BN/recon",
+    "name": "第131空降旅第2营侦察排",
+    "echelon": "platoon",
+    "role": "recon",
+    "vehicles": {
+      "lynx_recon": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab131B-BN2-ENGINEER",
+    "parentId": "ab131B-BN2",
+    "code": "ab131B/2BN/engineer",
+    "name": "第131空降旅第2营工兵排",
+    "echelon": "platoon",
+    "role": "engineer",
+    "vehicles": {
+      "lynx_engineer": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab131B-BN3",
+    "parentId": "ab131B",
+    "code": "ab131B/3BN",
+    "name": "第131空降旅第3空降合成营",
+    "echelon": "battalion",
+    "role": "airborne_combined",
+    "vehicles": {
+      "lynx_transport": 8,
+      "lynx_fire_support": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab131B-BN3-C1",
+    "parentId": "ab131B-BN3",
+    "code": "ab131B/3BN/1CO",
+    "name": "第131空降旅第3营第1空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab131B-BN3-C2",
+    "parentId": "ab131B-BN3",
+    "code": "ab131B/3BN/2CO",
+    "name": "第131空降旅第3营第2空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab131B-BN3-C3",
+    "parentId": "ab131B-BN3",
+    "code": "ab131B/3BN/3CO",
+    "name": "第131空降旅第3营第3空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab131B-BN3-FIRE_SUPPORT",
+    "parentId": "ab131B-BN3",
+    "code": "ab131B/3BN/fire_support",
+    "name": "第131空降旅第3营火力连",
+    "echelon": "company",
+    "role": "fire_support",
+    "vehicles": {
+      "lynx_mortar": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab131B-BN3-RECON",
+    "parentId": "ab131B-BN3",
+    "code": "ab131B/3BN/recon",
+    "name": "第131空降旅第3营侦察排",
+    "echelon": "platoon",
+    "role": "recon",
+    "vehicles": {
+      "lynx_recon": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab131B-BN3-ENGINEER",
+    "parentId": "ab131B-BN3",
+    "code": "ab131B/3BN/engineer",
+    "name": "第131空降旅第3营工兵排",
+    "echelon": "platoon",
+    "role": "engineer",
+    "vehicles": {
+      "lynx_engineer": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab131B-HQ",
+    "parentId": "ab131B",
+    "code": "ab131B/hq",
+    "name": "第131空降旅旅指挥部",
+    "echelon": "headquarters",
+    "role": "hq",
+    "vehicles": {},
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab131B-ARTILLERY",
+    "parentId": "ab131B",
+    "code": "ab131B/artillery",
+    "name": "第131空降旅炮兵营",
+    "echelon": "battalion",
+    "role": "artillery",
+    "vehicles": {
+      "lynx_mortar": 6
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab131B-LOGISTICS",
+    "parentId": "ab131B",
+    "code": "ab131B/logistics",
+    "name": "第131空降旅勤务保障营",
+    "echelon": "battalion",
+    "role": "logistics",
+    "vehicles": {
+      "lynx_logistics": 6
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab131B-RECON",
+    "parentId": "ab131B",
+    "code": "ab131B/recon",
+    "name": "第131空降旅直属侦察连",
+    "echelon": "company",
+    "role": "recon",
+    "vehicles": {
+      "lynx_recon": 4
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab131B-ENGINEER",
+    "parentId": "ab131B",
+    "code": "ab131B/engineer",
+    "name": "第131空降旅直属工兵连",
+    "echelon": "company",
+    "role": "engineer",
+    "vehicles": {
+      "lynx_engineer": 4
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab131B-AIR_DEFENSE",
+    "parentId": "ab131B",
+    "code": "ab131B/air_defense",
+    "name": "第131空降旅直属防空连",
+    "echelon": "company",
+    "role": "air_defense",
+    "vehicles": {
+      "lynx_air_defense": 4
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab131B-SIGNALS",
+    "parentId": "ab131B",
+    "code": "ab131B/signals",
+    "name": "第131空降旅直属通信连",
+    "echelon": "company",
+    "role": "signals",
+    "vehicles": {
+      "lynx_command": 3
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab131B-SPECIAL_FORCES",
+    "parentId": "ab131B",
+    "code": "ab131B/special_forces",
+    "name": "第131空降旅直属特战分队",
+    "echelon": "detachment",
+    "role": "special_forces",
+    "vehicles": {
+      "lynx_recon": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab133B-BN1",
+    "parentId": "ab133B",
+    "code": "ab133B/1BN",
+    "name": "第133空降旅第1空降合成营",
+    "echelon": "battalion",
+    "role": "airborne_combined",
+    "vehicles": {
+      "lynx_transport": 8,
+      "lynx_fire_support": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab133B-BN1-C1",
+    "parentId": "ab133B-BN1",
+    "code": "ab133B/1BN/1CO",
+    "name": "第133空降旅第1营第1空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab133B-BN1-C2",
+    "parentId": "ab133B-BN1",
+    "code": "ab133B/1BN/2CO",
+    "name": "第133空降旅第1营第2空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab133B-BN1-C3",
+    "parentId": "ab133B-BN1",
+    "code": "ab133B/1BN/3CO",
+    "name": "第133空降旅第1营第3空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab133B-BN1-FIRE_SUPPORT",
+    "parentId": "ab133B-BN1",
+    "code": "ab133B/1BN/fire_support",
+    "name": "第133空降旅第1营火力连",
+    "echelon": "company",
+    "role": "fire_support",
+    "vehicles": {
+      "lynx_mortar": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab133B-BN1-RECON",
+    "parentId": "ab133B-BN1",
+    "code": "ab133B/1BN/recon",
+    "name": "第133空降旅第1营侦察排",
+    "echelon": "platoon",
+    "role": "recon",
+    "vehicles": {
+      "lynx_recon": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab133B-BN1-ENGINEER",
+    "parentId": "ab133B-BN1",
+    "code": "ab133B/1BN/engineer",
+    "name": "第133空降旅第1营工兵排",
+    "echelon": "platoon",
+    "role": "engineer",
+    "vehicles": {
+      "lynx_engineer": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab133B-BN2",
+    "parentId": "ab133B",
+    "code": "ab133B/2BN",
+    "name": "第133空降旅第2空降合成营",
+    "echelon": "battalion",
+    "role": "airborne_combined",
+    "vehicles": {
+      "lynx_transport": 8,
+      "lynx_fire_support": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab133B-BN2-C1",
+    "parentId": "ab133B-BN2",
+    "code": "ab133B/2BN/1CO",
+    "name": "第133空降旅第2营第1空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab133B-BN2-C2",
+    "parentId": "ab133B-BN2",
+    "code": "ab133B/2BN/2CO",
+    "name": "第133空降旅第2营第2空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab133B-BN2-C3",
+    "parentId": "ab133B-BN2",
+    "code": "ab133B/2BN/3CO",
+    "name": "第133空降旅第2营第3空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab133B-BN2-FIRE_SUPPORT",
+    "parentId": "ab133B-BN2",
+    "code": "ab133B/2BN/fire_support",
+    "name": "第133空降旅第2营火力连",
+    "echelon": "company",
+    "role": "fire_support",
+    "vehicles": {
+      "lynx_mortar": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab133B-BN2-RECON",
+    "parentId": "ab133B-BN2",
+    "code": "ab133B/2BN/recon",
+    "name": "第133空降旅第2营侦察排",
+    "echelon": "platoon",
+    "role": "recon",
+    "vehicles": {
+      "lynx_recon": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab133B-BN2-ENGINEER",
+    "parentId": "ab133B-BN2",
+    "code": "ab133B/2BN/engineer",
+    "name": "第133空降旅第2营工兵排",
+    "echelon": "platoon",
+    "role": "engineer",
+    "vehicles": {
+      "lynx_engineer": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab133B-BN3",
+    "parentId": "ab133B",
+    "code": "ab133B/3BN",
+    "name": "第133空降旅第3空降合成营",
+    "echelon": "battalion",
+    "role": "airborne_combined",
+    "vehicles": {
+      "lynx_transport": 8,
+      "lynx_fire_support": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab133B-BN3-C1",
+    "parentId": "ab133B-BN3",
+    "code": "ab133B/3BN/1CO",
+    "name": "第133空降旅第3营第1空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab133B-BN3-C2",
+    "parentId": "ab133B-BN3",
+    "code": "ab133B/3BN/2CO",
+    "name": "第133空降旅第3营第2空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab133B-BN3-C3",
+    "parentId": "ab133B-BN3",
+    "code": "ab133B/3BN/3CO",
+    "name": "第133空降旅第3营第3空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab133B-BN3-FIRE_SUPPORT",
+    "parentId": "ab133B-BN3",
+    "code": "ab133B/3BN/fire_support",
+    "name": "第133空降旅第3营火力连",
+    "echelon": "company",
+    "role": "fire_support",
+    "vehicles": {
+      "lynx_mortar": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab133B-BN3-RECON",
+    "parentId": "ab133B-BN3",
+    "code": "ab133B/3BN/recon",
+    "name": "第133空降旅第3营侦察排",
+    "echelon": "platoon",
+    "role": "recon",
+    "vehicles": {
+      "lynx_recon": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab133B-BN3-ENGINEER",
+    "parentId": "ab133B-BN3",
+    "code": "ab133B/3BN/engineer",
+    "name": "第133空降旅第3营工兵排",
+    "echelon": "platoon",
+    "role": "engineer",
+    "vehicles": {
+      "lynx_engineer": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab133B-HQ",
+    "parentId": "ab133B",
+    "code": "ab133B/hq",
+    "name": "第133空降旅旅指挥部",
+    "echelon": "headquarters",
+    "role": "hq",
+    "vehicles": {},
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab133B-ARTILLERY",
+    "parentId": "ab133B",
+    "code": "ab133B/artillery",
+    "name": "第133空降旅炮兵营",
+    "echelon": "battalion",
+    "role": "artillery",
+    "vehicles": {
+      "lynx_mortar": 6
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab133B-LOGISTICS",
+    "parentId": "ab133B",
+    "code": "ab133B/logistics",
+    "name": "第133空降旅勤务保障营",
+    "echelon": "battalion",
+    "role": "logistics",
+    "vehicles": {
+      "lynx_logistics": 6
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab133B-RECON",
+    "parentId": "ab133B",
+    "code": "ab133B/recon",
+    "name": "第133空降旅直属侦察连",
+    "echelon": "company",
+    "role": "recon",
+    "vehicles": {
+      "lynx_recon": 4
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab133B-ENGINEER",
+    "parentId": "ab133B",
+    "code": "ab133B/engineer",
+    "name": "第133空降旅直属工兵连",
+    "echelon": "company",
+    "role": "engineer",
+    "vehicles": {
+      "lynx_engineer": 4
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab133B-AIR_DEFENSE",
+    "parentId": "ab133B",
+    "code": "ab133B/air_defense",
+    "name": "第133空降旅直属防空连",
+    "echelon": "company",
+    "role": "air_defense",
+    "vehicles": {
+      "lynx_air_defense": 4
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab133B-SIGNALS",
+    "parentId": "ab133B",
+    "code": "ab133B/signals",
+    "name": "第133空降旅直属通信连",
+    "echelon": "company",
+    "role": "signals",
+    "vehicles": {
+      "lynx_command": 3
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab133B-SPECIAL_FORCES",
+    "parentId": "ab133B",
+    "code": "ab133B/special_forces",
+    "name": "第133空降旅直属特战分队",
+    "echelon": "detachment",
+    "role": "special_forces",
+    "vehicles": {
+      "lynx_recon": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab134B-BN1",
+    "parentId": "ab134B",
+    "code": "ab134B/1BN",
+    "name": "第134空降旅第1空降合成营",
+    "echelon": "battalion",
+    "role": "airborne_combined",
+    "vehicles": {
+      "lynx_transport": 8,
+      "lynx_fire_support": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab134B-BN1-C1",
+    "parentId": "ab134B-BN1",
+    "code": "ab134B/1BN/1CO",
+    "name": "第134空降旅第1营第1空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab134B-BN1-C2",
+    "parentId": "ab134B-BN1",
+    "code": "ab134B/1BN/2CO",
+    "name": "第134空降旅第1营第2空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab134B-BN1-C3",
+    "parentId": "ab134B-BN1",
+    "code": "ab134B/1BN/3CO",
+    "name": "第134空降旅第1营第3空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab134B-BN1-FIRE_SUPPORT",
+    "parentId": "ab134B-BN1",
+    "code": "ab134B/1BN/fire_support",
+    "name": "第134空降旅第1营火力连",
+    "echelon": "company",
+    "role": "fire_support",
+    "vehicles": {
+      "lynx_mortar": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab134B-BN1-RECON",
+    "parentId": "ab134B-BN1",
+    "code": "ab134B/1BN/recon",
+    "name": "第134空降旅第1营侦察排",
+    "echelon": "platoon",
+    "role": "recon",
+    "vehicles": {
+      "lynx_recon": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab134B-BN1-ENGINEER",
+    "parentId": "ab134B-BN1",
+    "code": "ab134B/1BN/engineer",
+    "name": "第134空降旅第1营工兵排",
+    "echelon": "platoon",
+    "role": "engineer",
+    "vehicles": {
+      "lynx_engineer": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab134B-BN2",
+    "parentId": "ab134B",
+    "code": "ab134B/2BN",
+    "name": "第134空降旅第2空降合成营",
+    "echelon": "battalion",
+    "role": "airborne_combined",
+    "vehicles": {
+      "lynx_transport": 8,
+      "lynx_fire_support": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab134B-BN2-C1",
+    "parentId": "ab134B-BN2",
+    "code": "ab134B/2BN/1CO",
+    "name": "第134空降旅第2营第1空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab134B-BN2-C2",
+    "parentId": "ab134B-BN2",
+    "code": "ab134B/2BN/2CO",
+    "name": "第134空降旅第2营第2空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab134B-BN2-C3",
+    "parentId": "ab134B-BN2",
+    "code": "ab134B/2BN/3CO",
+    "name": "第134空降旅第2营第3空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab134B-BN2-FIRE_SUPPORT",
+    "parentId": "ab134B-BN2",
+    "code": "ab134B/2BN/fire_support",
+    "name": "第134空降旅第2营火力连",
+    "echelon": "company",
+    "role": "fire_support",
+    "vehicles": {
+      "lynx_mortar": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab134B-BN2-RECON",
+    "parentId": "ab134B-BN2",
+    "code": "ab134B/2BN/recon",
+    "name": "第134空降旅第2营侦察排",
+    "echelon": "platoon",
+    "role": "recon",
+    "vehicles": {
+      "lynx_recon": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab134B-BN2-ENGINEER",
+    "parentId": "ab134B-BN2",
+    "code": "ab134B/2BN/engineer",
+    "name": "第134空降旅第2营工兵排",
+    "echelon": "platoon",
+    "role": "engineer",
+    "vehicles": {
+      "lynx_engineer": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab134B-BN3",
+    "parentId": "ab134B",
+    "code": "ab134B/3BN",
+    "name": "第134空降旅第3空降合成营",
+    "echelon": "battalion",
+    "role": "airborne_combined",
+    "vehicles": {
+      "lynx_transport": 8,
+      "lynx_fire_support": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab134B-BN3-C1",
+    "parentId": "ab134B-BN3",
+    "code": "ab134B/3BN/1CO",
+    "name": "第134空降旅第3营第1空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab134B-BN3-C2",
+    "parentId": "ab134B-BN3",
+    "code": "ab134B/3BN/2CO",
+    "name": "第134空降旅第3营第2空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab134B-BN3-C3",
+    "parentId": "ab134B-BN3",
+    "code": "ab134B/3BN/3CO",
+    "name": "第134空降旅第3营第3空降步兵连",
+    "echelon": "company",
+    "role": "airborne_infantry",
+    "vehicles": {
+      "lynx_transport": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab134B-BN3-FIRE_SUPPORT",
+    "parentId": "ab134B-BN3",
+    "code": "ab134B/3BN/fire_support",
+    "name": "第134空降旅第3营火力连",
+    "echelon": "company",
+    "role": "fire_support",
+    "vehicles": {
+      "lynx_mortar": 2
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab134B-BN3-RECON",
+    "parentId": "ab134B-BN3",
+    "code": "ab134B/3BN/recon",
+    "name": "第134空降旅第3营侦察排",
+    "echelon": "platoon",
+    "role": "recon",
+    "vehicles": {
+      "lynx_recon": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab134B-BN3-ENGINEER",
+    "parentId": "ab134B-BN3",
+    "code": "ab134B/3BN/engineer",
+    "name": "第134空降旅第3营工兵排",
+    "echelon": "platoon",
+    "role": "engineer",
+    "vehicles": {
+      "lynx_engineer": 1
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab134B-HQ",
+    "parentId": "ab134B",
+    "code": "ab134B/hq",
+    "name": "第134空降旅旅指挥部",
+    "echelon": "headquarters",
+    "role": "hq",
+    "vehicles": {},
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab134B-ARTILLERY",
+    "parentId": "ab134B",
+    "code": "ab134B/artillery",
+    "name": "第134空降旅炮兵营",
+    "echelon": "battalion",
+    "role": "artillery",
+    "vehicles": {
+      "lynx_mortar": 6
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab134B-LOGISTICS",
+    "parentId": "ab134B",
+    "code": "ab134B/logistics",
+    "name": "第134空降旅勤务保障营",
+    "echelon": "battalion",
+    "role": "logistics",
+    "vehicles": {
+      "lynx_logistics": 6
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab134B-RECON",
+    "parentId": "ab134B",
+    "code": "ab134B/recon",
+    "name": "第134空降旅直属侦察连",
+    "echelon": "company",
+    "role": "recon",
+    "vehicles": {
+      "lynx_recon": 4
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab134B-ENGINEER",
+    "parentId": "ab134B",
+    "code": "ab134B/engineer",
+    "name": "第134空降旅直属工兵连",
+    "echelon": "company",
+    "role": "engineer",
+    "vehicles": {
+      "lynx_engineer": 4
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab134B-AIR_DEFENSE",
+    "parentId": "ab134B",
+    "code": "ab134B/air_defense",
+    "name": "第134空降旅直属防空连",
+    "echelon": "company",
+    "role": "air_defense",
+    "vehicles": {
+      "lynx_air_defense": 4
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab134B-SIGNALS",
+    "parentId": "ab134B",
+    "code": "ab134B/signals",
+    "name": "第134空降旅直属通信连",
+    "echelon": "company",
+    "role": "signals",
+    "vehicles": {
+      "lynx_command": 3
+    },
+    "authenticity": "fictional_placeholder"
+  },
+  {
+    "id": "ab134B-SPECIAL_FORCES",
+    "parentId": "ab134B",
+    "code": "ab134B/special_forces",
+    "name": "第134空降旅直属特战分队",
+    "echelon": "detachment",
+    "role": "special_forces",
+    "vehicles": {
+      "lynx_recon": 2
+    },
+    "authenticity": "fictional_placeholder"
+  }
+]

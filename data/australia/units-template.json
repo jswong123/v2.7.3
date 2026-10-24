@@ -1,0 +1,5 @@
+{
+  "_templateOnly": true,
+  "units": [],
+  "_note": "正式units文件应为单位对象数组，遵循已有战役单位字段结构"
+}

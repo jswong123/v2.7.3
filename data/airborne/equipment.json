@@ -1,0 +1,66 @@
+[
+  {
+    "id": "lynx_transport",
+    "name": "山猫人员运输型",
+    "role": "light_transport",
+    "configurationStatus": "game_variant_not_confirmed_service",
+    "vehicleClass": "lynx_atv",
+    "airdropEligible": null
+  },
+  {
+    "id": "lynx_fire_support",
+    "name": "山猫机枪／火力型",
+    "role": "fire_support",
+    "configurationStatus": "game_variant_not_confirmed_service",
+    "vehicleClass": "lynx_atv",
+    "airdropEligible": null
+  },
+  {
+    "id": "lynx_mortar",
+    "name": "山猫迫击炮型",
+    "role": "indirect_fire",
+    "configurationStatus": "game_variant_not_confirmed_service",
+    "vehicleClass": "lynx_atv",
+    "airdropEligible": null
+  },
+  {
+    "id": "lynx_recon",
+    "name": "山猫侦察型",
+    "role": "recon",
+    "configurationStatus": "game_variant_not_confirmed_service",
+    "vehicleClass": "lynx_atv",
+    "airdropEligible": null
+  },
+  {
+    "id": "lynx_engineer",
+    "name": "山猫工兵保障型",
+    "role": "engineer",
+    "configurationStatus": "game_variant_not_confirmed_service",
+    "vehicleClass": "lynx_atv",
+    "airdropEligible": null
+  },
+  {
+    "id": "lynx_air_defense",
+    "name": "山猫防空任务型",
+    "role": "air_defense",
+    "configurationStatus": "game_variant_not_confirmed_service",
+    "vehicleClass": "lynx_atv",
+    "airdropEligible": null
+  },
+  {
+    "id": "lynx_command",
+    "name": "山猫通信指挥型",
+    "role": "command",
+    "configurationStatus": "game_variant_not_confirmed_service",
+    "vehicleClass": "lynx_atv",
+    "airdropEligible": null
+  },
+  {
+    "id": "lynx_logistics",
+    "name": "山猫后勤运输型",
+    "role": "logistics",
+    "configurationStatus": "game_variant_not_confirmed_service",
+    "vehicleClass": "lynx_atv",
+    "airdropEligible": null
+  }
+]

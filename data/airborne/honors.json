@@ -1,0 +1,46 @@
+[
+  {
+    "id": "honor-hjg",
+    "name": "黄继光英雄连",
+    "echelon": "company",
+    "assignedUnitId": null,
+    "verifiedBrigadeId": null,
+    "assignmentStatus": "unverified",
+    "aliases": [
+      "模范空降兵连"
+    ],
+    "note": "荣誉称号真实存在；不在缺少资料时绑定具体旅番号",
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    }
+  },
+  {
+    "id": "honor-sgl8",
+    "name": "上甘岭特功八连",
+    "echelon": "company",
+    "assignedUnitId": null,
+    "verifiedBrigadeId": null,
+    "assignmentStatus": "unverified",
+    "aliases": [],
+    "note": "荣誉称号真实存在；现行隶属待核实",
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    }
+  },
+  {
+    "id": "honor-thunder",
+    "name": "雷神突击队",
+    "echelon": "detachment",
+    "assignedUnitId": null,
+    "verifiedBrigadeId": null,
+    "assignmentStatus": "unverified",
+    "aliases": [],
+    "note": "真实名称；不假定其具体旅级隶属",
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    }
+  }
+]

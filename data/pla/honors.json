@@ -1,0 +1,3031 @@
+[
+  {
+    "id": "army_yanggensi",
+    "name": "杨根思连",
+    "branch": "army",
+    "echelon": "company",
+    "publicAffiliation": "第83集团军某合成旅（公开报道，旅番号未确认）",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "public_verified",
+    "source": {
+      "url": "https://www.81.mil.cn/lmyybl/jskt_208724/16313891.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "gameParentId": "pla_ga_83",
+    "gameAffiliationType": "public_group_only",
+    "gameAffiliationNote": "公开资料仅支持集团军层级，具体旅营连未知；游戏暂挂集团军。",
+    "specialMissionEligible": true,
+    "specialMissionMode": "optional_detachment_shared_strength",
+    "honorLinked": true,
+    "honorDisplayName": "杨根思连",
+    "exerciseParentId": "game_ga71_b1",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "army_liulaozhuang",
+    "name": "刘老庄连",
+    "branch": "army",
+    "echelon": "company",
+    "publicAffiliation": "第82集团军某旅（2026年公开报道）",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "public_verified",
+    "source": {
+      "url": "https://www.81.mil.cn/lj_208555/16440179.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "gameParentId": "pla_ga_82",
+    "gameAffiliationType": "public_group_only",
+    "gameAffiliationNote": "公开资料仅支持集团军层级，具体旅营连未知；游戏暂挂集团军。",
+    "specialMissionEligible": true,
+    "specialMissionMode": "optional_detachment_shared_strength",
+    "honorLinked": true,
+    "honorDisplayName": "刘老庄连",
+    "exerciseParentId": "game_ga71_b2",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "marine_jixiongshan",
+    "name": "鸡雄山阻击战斗英雄连",
+    "branch": "marine",
+    "echelon": "company",
+    "publicAffiliation": "海军陆战队某旅（公开报道）",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "public_verified",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/wzll/hj/4918860.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "gameParentId": "pla_marine_template_4",
+    "gameAffiliationType": "fictional_game_assignment",
+    "gameAffiliationNote": "仅为游戏编组关联，非公开确认的现实隶属。",
+    "specialMissionEligible": true,
+    "specialMissionMode": "optional_detachment_shared_strength",
+    "honorLinked": true,
+    "honorDisplayName": "鸡雄山阻击战斗英雄连"
+  },
+  {
+    "id": "marine_qingnian",
+    "name": "青年先锋连",
+    "branch": "marine",
+    "echelon": "company",
+    "publicAffiliation": "海军陆战队某旅（公开报道）",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "public_verified",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/wzll/hj/4918860.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "gameParentId": "pla_marine_template_1",
+    "gameAffiliationType": "fictional_game_assignment",
+    "gameAffiliationNote": "仅为游戏编组关联，非公开确认的现实隶属。",
+    "specialMissionEligible": true,
+    "specialMissionMode": "optional_detachment_shared_strength",
+    "honorLinked": true,
+    "honorDisplayName": "青年先锋连"
+  },
+  {
+    "id": "marine_liangshan",
+    "name": "梁山战斗英雄连",
+    "branch": "marine",
+    "echelon": "company",
+    "publicAffiliation": "海军陆战队某旅（公开报道）",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "public_verified",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/wzll/hj/4918860.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "gameParentId": "pla_marine_template_1",
+    "gameAffiliationType": "fictional_game_assignment",
+    "gameAffiliationNote": "仅为游戏编组关联，非公开确认的现实隶属。",
+    "specialMissionEligible": true,
+    "specialMissionMode": "optional_detachment_shared_strength",
+    "honorLinked": true,
+    "honorDisplayName": "梁山战斗英雄连"
+  },
+  {
+    "id": "marine_litaichang",
+    "name": "李太昌排",
+    "branch": "marine",
+    "echelon": "platoon",
+    "publicAffiliation": "海军陆战队某旅（公开报道）",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "public_verified",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/wzll/hj/4918860.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "gameParentId": "pla_marine_template_6",
+    "gameAffiliationType": "fictional_game_assignment",
+    "gameAffiliationNote": "仅为游戏编组关联，非公开确认的现实隶属。",
+    "specialMissionEligible": true,
+    "specialMissionMode": "optional_detachment_shared_strength",
+    "honorLinked": true,
+    "honorDisplayName": "李太昌排"
+  },
+  {
+    "id": "marine_liuguangrong",
+    "name": "刘光荣班",
+    "branch": "marine",
+    "echelon": "squad",
+    "publicAffiliation": "海军陆战队某旅（公开报道）",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "public_verified",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/wzll/hj/4918860.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "gameParentId": "pla_marine_template_2",
+    "gameAffiliationType": "fictional_game_assignment",
+    "gameAffiliationNote": "仅为游戏编组关联，非公开确认的现实隶属。",
+    "specialMissionEligible": true,
+    "specialMissionMode": "optional_detachment_shared_strength",
+    "honorLinked": true,
+    "honorDisplayName": "刘光荣班"
+  },
+  {
+    "id": "marine_tuji",
+    "name": "突击英雄连",
+    "branch": "marine",
+    "echelon": "company",
+    "publicAffiliation": "海军陆战队某旅（历史报道，现隶属待核实）",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "public_verified",
+    "source": {
+      "url": "https://mil.news.sina.com.cn/2008-10-21/1059526320.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "gameParentId": "pla_marine_template_6",
+    "gameAffiliationType": "fictional_game_assignment",
+    "gameAffiliationNote": "仅为游戏编组关联，非公开确认的现实隶属。",
+    "specialMissionEligible": true,
+    "specialMissionMode": "optional_detachment_shared_strength",
+    "honorLinked": true,
+    "honorDisplayName": "突击英雄连"
+  },
+  {
+    "id": "airborne_huangjiguang",
+    "name": "黄继光英雄连",
+    "branch": "airborne",
+    "echelon": "company",
+    "publicAffiliation": "空降兵部队，现所属旅待核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "public_verified",
+    "source": {
+      "url": "https://www.81.mil.cn/js_208592/jdt_208593/16317035.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "gameParentId": "pla_airborne_b_131",
+    "gameAffiliationType": "fictional_game_assignment",
+    "gameAffiliationNote": "仅为游戏编组关联，非公开确认的现实隶属。",
+    "specialMissionEligible": true,
+    "specialMissionMode": "optional_detachment_shared_strength",
+    "honorLinked": true,
+    "honorDisplayName": "黄继光英雄连"
+  },
+  {
+    "id": "airborne_shangganling",
+    "name": "上甘岭特功八连",
+    "branch": "airborne",
+    "echelon": "company",
+    "publicAffiliation": "空降兵部队，现所属旅待核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "pending_source_review",
+    "source": null,
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "gameParentId": "pla_airborne_b_130",
+    "gameAffiliationType": "fictional_game_assignment",
+    "gameAffiliationNote": "仅为游戏编组关联，非公开确认的现实隶属。",
+    "specialMissionEligible": true,
+    "specialMissionMode": "optional_detachment_shared_strength",
+    "honorLinked": true,
+    "honorDisplayName": "上甘岭特功八连"
+  },
+  {
+    "id": "army_hardbone",
+    "name": "硬骨头六连",
+    "branch": "army",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉称号；现代具体隶属未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "public_verified",
+    "source": {
+      "url": "https://www.81.mil.cn/js_208592/16282210.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "gameParentId": "game_ga76_ad",
+    "gameAffiliationType": "fictional_game_assignment",
+    "gameAffiliationNote": "仅为游戏编组关联，非公开确认的现实隶属。",
+    "specialMissionEligible": true,
+    "specialMissionMode": "optional_detachment_shared_strength",
+    "honorLinked": true,
+    "honorDisplayName": "硬骨头六连",
+    "exerciseParentId": "game_ga72_b1",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "army_linfeng",
+    "name": "光荣的临汾旅",
+    "branch": "army",
+    "echelon": "brigade",
+    "publicAffiliation": "历史荣誉称号；现代具体隶属未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "public_verified",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "gameParentId": "game_ga80_log",
+    "gameAffiliationType": "fictional_game_assignment",
+    "gameAffiliationNote": "仅为游戏编组关联，非公开确认的现实隶属。",
+    "specialMissionEligible": false,
+    "specialMissionMode": null,
+    "honorLinked": true,
+    "honorDisplayName": "光荣的临汾旅"
+  },
+  {
+    "id": "army_jinanfirst",
+    "name": "济南第一团",
+    "branch": "army",
+    "echelon": "regiment",
+    "publicAffiliation": "历史荣誉称号；现代具体隶属未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "public_verified",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "gameParentId": "game_ga74_eng",
+    "gameAffiliationType": "fictional_game_assignment",
+    "gameAffiliationNote": "仅为游戏编组关联，非公开确认的现实隶属。",
+    "specialMissionEligible": false,
+    "specialMissionMode": null,
+    "honorLinked": true,
+    "honorDisplayName": "济南第一团",
+    "exerciseParentId": "game_ga73_b1",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "army_tashan",
+    "name": "塔山英雄团",
+    "branch": "army",
+    "echelon": "regiment",
+    "publicAffiliation": "历史荣誉称号；现代具体隶属未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "public_verified",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "gameParentId": "game_ga73_b2",
+    "gameAffiliationType": "fictional_game_assignment",
+    "gameAffiliationNote": "仅为游戏编组关联，非公开确认的现实隶属。",
+    "specialMissionEligible": false,
+    "specialMissionMode": null,
+    "honorLinked": true,
+    "honorDisplayName": "塔山英雄团",
+    "exerciseParentId": "game_ga73_b2",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "army_daduhe",
+    "name": "大渡河连",
+    "branch": "army",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉称号；现代具体隶属未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "public_verified",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "gameParentId": "game_ga82_b4",
+    "gameAffiliationType": "fictional_game_assignment",
+    "gameAffiliationNote": "仅为游戏编组关联，非公开确认的现实隶属。",
+    "specialMissionEligible": true,
+    "specialMissionMode": "optional_detachment_shared_strength",
+    "honorLinked": true,
+    "honorDisplayName": "大渡河连",
+    "exerciseParentId": "game_ga82_b4",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "army_redone",
+    "name": "红一连",
+    "branch": "army",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉称号；现代具体隶属未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "public_verified",
+    "source": {
+      "url": "https://www.81.mil.cn/lj_208555/jdt_208556/16457977.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "gameParentId": "game_ga72_b2",
+    "gameAffiliationType": "fictional_game_assignment",
+    "gameAffiliationNote": "仅为游戏编组关联，非公开确认的现实隶属。",
+    "specialMissionEligible": true,
+    "specialMissionMode": "optional_detachment_shared_strength",
+    "honorLinked": true,
+    "honorDisplayName": "红一连",
+    "exerciseParentId": "game_ga72_b2",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "army_tegongfive",
+    "name": "特功五连",
+    "branch": "army",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉称号；现代具体隶属未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "public_verified",
+    "source": {
+      "url": "https://www.81.mil.cn/zt/2025nzt/hyylctshzzzxjbjzxgx/index.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "gameParentId": "game_ga73_fire",
+    "gameAffiliationType": "fictional_game_assignment",
+    "gameAffiliationNote": "仅为游戏编组关联，非公开确认的现实隶属。",
+    "specialMissionEligible": true,
+    "specialMissionMode": "optional_detachment_shared_strength",
+    "honorLinked": true,
+    "honorDisplayName": "特功五连",
+    "exerciseParentId": "game_ga74_b1",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "navy_seatiger",
+    "name": "海上猛虎艇",
+    "branch": "navy",
+    "echelon": "ship",
+    "publicAffiliation": "历史荣誉称号；现代具体隶属未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "public_verified",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "honorLinked": false,
+    "honorDisplayName": "海上猛虎艇"
+  },
+  {
+    "id": "navy_seapioneer",
+    "name": "海上先锋艇",
+    "branch": "navy",
+    "echelon": "ship",
+    "publicAffiliation": "历史荣誉称号；现代具体隶属未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "public_verified",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "honorLinked": false,
+    "honorDisplayName": "海上先锋艇"
+  },
+  {
+    "id": "parade2019_000",
+    "name": "黄崖洞保卫战英雄团",
+    "branch": "historical_unspecified",
+    "echelon": "regiment",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "黄崖洞保卫战英雄团",
+    "exerciseParentId": "game_ga74_b2",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_001",
+    "name": "叶挺部队",
+    "branch": "historical_unspecified",
+    "echelon": "unknown",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "叶挺部队"
+  },
+  {
+    "id": "parade2019_003",
+    "name": "襄阳特功团",
+    "branch": "historical_unspecified",
+    "echelon": "regiment",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "襄阳特功团",
+    "exerciseParentId": "game_ga75_b1",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_005",
+    "name": "济南第二团",
+    "branch": "historical_unspecified",
+    "echelon": "regiment",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "济南第二团",
+    "exerciseParentId": "game_ga75_b2",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_006",
+    "name": "海空雄鹰团",
+    "branch": "navy",
+    "echelon": "regiment",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "海空雄鹰团"
+  },
+  {
+    "id": "parade2019_007",
+    "name": "战斗模范连",
+    "branch": "historical_unspecified",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "战斗模范连",
+    "exerciseParentId": "game_ga76_b1",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_008",
+    "name": "模范党支部",
+    "branch": "historical_unspecified",
+    "echelon": "unknown",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "模范党支部"
+  },
+  {
+    "id": "parade2019_009",
+    "name": "左权独立营",
+    "branch": "historical_unspecified",
+    "echelon": "battalion",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "左权独立营",
+    "exerciseParentId": "game_ga76_b2",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_010",
+    "name": "洛阳营",
+    "branch": "historical_unspecified",
+    "echelon": "battalion",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "洛阳营",
+    "exerciseParentId": "game_ga77_b1",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_011",
+    "name": "大嶝岛战斗模范连",
+    "branch": "historical_unspecified",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "大嶝岛战斗模范连",
+    "exerciseParentId": "game_ga77_b2",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_012",
+    "name": "渡海先锋营",
+    "branch": "historical_unspecified",
+    "echelon": "battalion",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "渡海先锋营",
+    "exerciseParentId": "game_ga78_b1",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_013",
+    "name": "英雄中队",
+    "branch": "air_force",
+    "echelon": "squadron",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "英雄中队"
+  },
+  {
+    "id": "parade2019_014",
+    "name": "二级战斗英雄连",
+    "branch": "historical_unspecified",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "二级战斗英雄连",
+    "exerciseParentId": "game_ga78_b2",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_015",
+    "name": "杜凤瑞中队",
+    "branch": "air_force",
+    "echelon": "squadron",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "杜凤瑞中队"
+  },
+  {
+    "id": "parade2019_018",
+    "name": "王克勤排",
+    "branch": "historical_unspecified",
+    "echelon": "platoon",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "王克勤排",
+    "exerciseParentId": "game_ga79_b1",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_019",
+    "name": "功勋坦克",
+    "branch": "historical_unspecified",
+    "echelon": "unknown",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "功勋坦克"
+  },
+  {
+    "id": "parade2019_020",
+    "name": "牺牲决胜团",
+    "branch": "historical_unspecified",
+    "echelon": "regiment",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "牺牲决胜团",
+    "exerciseParentId": "game_ga79_b2",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_021",
+    "name": "阻击战英雄团",
+    "branch": "historical_unspecified",
+    "echelon": "regiment",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "阻击战英雄团",
+    "exerciseParentId": "game_ga80_b1",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_022",
+    "name": "英勇善战模范团",
+    "branch": "historical_unspecified",
+    "echelon": "regiment",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "英勇善战模范团",
+    "exerciseParentId": "game_ga80_b2",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_023",
+    "name": "白台山英雄团",
+    "branch": "historical_unspecified",
+    "echelon": "regiment",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "白台山英雄团",
+    "exerciseParentId": "game_ga81_b1",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_026",
+    "name": "黄土岭功臣炮连",
+    "branch": "historical_unspecified",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "黄土岭功臣炮连",
+    "exerciseParentId": "game_ga81_b2",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_027",
+    "name": "白刃格斗英雄连",
+    "branch": "historical_unspecified",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "白刃格斗英雄连",
+    "exerciseParentId": "game_ga82_b1",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_028",
+    "name": "三八线尖刀英雄连",
+    "branch": "historical_unspecified",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "三八线尖刀英雄连",
+    "exerciseParentId": "game_ga82_b2",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_029",
+    "name": "中元山英雄连",
+    "branch": "historical_unspecified",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "中元山英雄连",
+    "exerciseParentId": "game_ga83_b1",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_030",
+    "name": "霹雳中队",
+    "branch": "air_force",
+    "echelon": "squadron",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "霹雳中队"
+  },
+  {
+    "id": "parade2019_031",
+    "name": "英雄快艇",
+    "branch": "navy",
+    "echelon": "vessel",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "英雄快艇"
+  },
+  {
+    "id": "parade2019_032",
+    "name": "钢铁雷达连",
+    "branch": "historical_unspecified",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "钢铁雷达连",
+    "exerciseParentId": "game_ga83_b2",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_033",
+    "name": "英雄坦克营",
+    "branch": "historical_unspecified",
+    "echelon": "battalion",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "英雄坦克营",
+    "exerciseParentId": "game_ga71_b3",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_034",
+    "name": "猛虎连",
+    "branch": "historical_unspecified",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "猛虎连",
+    "exerciseParentId": "game_ga71_b4",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_035",
+    "name": "攻坚英雄连",
+    "branch": "historical_unspecified",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "攻坚英雄连",
+    "exerciseParentId": "game_ga71_b5",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_036",
+    "name": "法卡山英雄营",
+    "branch": "historical_unspecified",
+    "echelon": "battalion",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "法卡山英雄营",
+    "exerciseParentId": "game_ga71_b6",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_037",
+    "name": "扣林山战斗英雄营",
+    "branch": "historical_unspecified",
+    "echelon": "battalion",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "扣林山战斗英雄营",
+    "exerciseParentId": "game_ga72_b3",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_038",
+    "name": "者阴山英雄连",
+    "branch": "historical_unspecified",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "者阴山英雄连",
+    "exerciseParentId": "game_ga72_b4",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_039",
+    "name": "英雄硬六连",
+    "branch": "historical_unspecified",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "英雄硬六连",
+    "exerciseParentId": "game_ga72_b5",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_040",
+    "name": "金刚钻",
+    "branch": "historical_unspecified",
+    "echelon": "unknown",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "金刚钻"
+  },
+  {
+    "id": "parade2019_041",
+    "name": "群众工作模范团",
+    "branch": "historical_unspecified",
+    "echelon": "regiment",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "群众工作模范团",
+    "exerciseParentId": "game_ga72_b6",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_042",
+    "name": "钢铁团",
+    "branch": "historical_unspecified",
+    "echelon": "regiment",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "钢铁团",
+    "exerciseParentId": "game_ga73_b3",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_043",
+    "name": "长攻善守英雄团",
+    "branch": "historical_unspecified",
+    "echelon": "regiment",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "长攻善守英雄团",
+    "exerciseParentId": "game_ga73_b4",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_044",
+    "name": "勇猛顽强英雄团",
+    "branch": "historical_unspecified",
+    "echelon": "regiment",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "勇猛顽强英雄团",
+    "exerciseParentId": "game_ga73_b5",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_045",
+    "name": "白云山团",
+    "branch": "historical_unspecified",
+    "echelon": "regiment",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "白云山团",
+    "exerciseParentId": "game_ga73_b6",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_046",
+    "name": "杀敌英雄连",
+    "branch": "historical_unspecified",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "杀敌英雄连",
+    "exerciseParentId": "game_ga74_b4",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_047",
+    "name": "五战五捷第二连",
+    "branch": "historical_unspecified",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "五战五捷第二连",
+    "exerciseParentId": "game_ga74_b5",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_048",
+    "name": "钢铁营",
+    "branch": "historical_unspecified",
+    "echelon": "battalion",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "钢铁营",
+    "exerciseParentId": "game_ga74_b6",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_049",
+    "name": "天津战役三好连",
+    "branch": "historical_unspecified",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "天津战役三好连",
+    "exerciseParentId": "game_ga75_b3",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_050",
+    "name": "英勇顽强攻取皋兰山",
+    "branch": "historical_unspecified",
+    "echelon": "unknown",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "英勇顽强攻取皋兰山"
+  },
+  {
+    "id": "parade2019_051",
+    "name": "钢铁英雄连",
+    "branch": "historical_unspecified",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "钢铁英雄连",
+    "exerciseParentId": "game_ga75_b4",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_052",
+    "name": "进藏先遣英雄连",
+    "branch": "historical_unspecified",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "进藏先遣英雄连",
+    "exerciseParentId": "game_ga75_b5",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_053",
+    "name": "二级英雄连",
+    "branch": "historical_unspecified",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "二级英雄连",
+    "exerciseParentId": "game_ga75_b6",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_054",
+    "name": "神炮中队",
+    "branch": "air_force",
+    "echelon": "squadron",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "神炮中队"
+  },
+  {
+    "id": "parade2019_055",
+    "name": "夜月山英雄班",
+    "branch": "historical_unspecified",
+    "echelon": "squad",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "夜月山英雄班",
+    "exerciseParentId": "game_ga76_b3",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_056",
+    "name": "智勇侦察排",
+    "branch": "historical_unspecified",
+    "echelon": "platoon",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "智勇侦察排",
+    "exerciseParentId": "game_ga76_b4",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_057",
+    "name": "阳廷安班",
+    "branch": "historical_unspecified",
+    "echelon": "squad",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "阳廷安班",
+    "exerciseParentId": "game_ga76_b5",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_058",
+    "name": "西藏高原钢铁运输班",
+    "branch": "historical_unspecified",
+    "echelon": "squad",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "西藏高原钢铁运输班",
+    "exerciseParentId": "game_ga76_b6",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_059",
+    "name": "模范红五团",
+    "branch": "historical_unspecified",
+    "echelon": "regiment",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "模范红五团",
+    "exerciseParentId": "game_ga77_b3",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_060",
+    "name": "模范红十二团",
+    "branch": "historical_unspecified",
+    "echelon": "regiment",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "模范红十二团",
+    "exerciseParentId": "game_ga77_b4",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_061",
+    "name": "铁锤子团",
+    "branch": "historical_unspecified",
+    "echelon": "regiment",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "铁锤子团",
+    "exerciseParentId": "game_ga77_b5",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_062",
+    "name": "甲等功臣团",
+    "branch": "historical_unspecified",
+    "echelon": "regiment",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "甲等功臣团",
+    "exerciseParentId": "game_ga77_b6",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_063",
+    "name": "平型关大战突击连",
+    "branch": "historical_unspecified",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "平型关大战突击连",
+    "exerciseParentId": "game_ga78_b3",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_064",
+    "name": "铁的堡垒",
+    "branch": "historical_unspecified",
+    "echelon": "unknown",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "铁的堡垒"
+  },
+  {
+    "id": "parade2019_065",
+    "name": "钢铁连队",
+    "branch": "historical_unspecified",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "钢铁连队",
+    "exerciseParentId": "game_ga78_b4",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_066",
+    "name": "百战百胜第三营",
+    "branch": "historical_unspecified",
+    "echelon": "battalion",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "百战百胜第三营",
+    "exerciseParentId": "game_ga78_b5",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_067",
+    "name": "刺杀优胜连",
+    "branch": "historical_unspecified",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "刺杀优胜连",
+    "exerciseParentId": "game_ga78_b6",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_068",
+    "name": "白老虎连",
+    "branch": "historical_unspecified",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "白老虎连",
+    "exerciseParentId": "game_ga79_b3",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_069",
+    "name": "登陆先锋营",
+    "branch": "historical_unspecified",
+    "echelon": "battalion",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "登陆先锋营",
+    "exerciseParentId": "game_ga79_b4",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_070",
+    "name": "临津江突破英雄连",
+    "branch": "historical_unspecified",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "临津江突破英雄连",
+    "exerciseParentId": "game_ga79_b5",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_071",
+    "name": "道峰山营",
+    "branch": "historical_unspecified",
+    "echelon": "battalion",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "道峰山营",
+    "exerciseParentId": "game_ga79_b6",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_073",
+    "name": "珍宝岛战斗功臣连",
+    "branch": "historical_unspecified",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "珍宝岛战斗功臣连",
+    "exerciseParentId": "game_ga80_b3",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_074",
+    "name": "神鹰侦察排",
+    "branch": "historical_unspecified",
+    "echelon": "platoon",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "神鹰侦察排",
+    "exerciseParentId": "game_ga80_b4",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_075",
+    "name": "云台寺排",
+    "branch": "historical_unspecified",
+    "echelon": "platoon",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "云台寺排",
+    "exerciseParentId": "game_ga80_b5",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_076",
+    "name": "董存瑞班",
+    "branch": "historical_unspecified",
+    "echelon": "squad",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "董存瑞班",
+    "exerciseParentId": "game_ga80_b6",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_077",
+    "name": "二二二、九东无名高地一级英雄班",
+    "branch": "historical_unspecified",
+    "echelon": "squad",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "二二二、九东无名高地一级英雄班",
+    "exerciseParentId": "game_ga81_b3",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_078",
+    "name": "铁军",
+    "branch": "historical_unspecified",
+    "echelon": "unknown",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "铁军"
+  },
+  {
+    "id": "parade2019_079",
+    "name": "势如破竹十九团",
+    "branch": "historical_unspecified",
+    "echelon": "regiment",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "势如破竹十九团",
+    "exerciseParentId": "game_ga81_b4",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_080",
+    "name": "潍县团",
+    "branch": "historical_unspecified",
+    "echelon": "regiment",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "潍县团",
+    "exerciseParentId": "game_ga81_b5",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_081",
+    "name": "强渡乌江模范连",
+    "branch": "historical_unspecified",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "强渡乌江模范连",
+    "exerciseParentId": "game_ga81_b6",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_082",
+    "name": "百战百胜",
+    "branch": "historical_unspecified",
+    "echelon": "unknown",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "百战百胜"
+  },
+  {
+    "id": "parade2019_084",
+    "name": "长城中队",
+    "branch": "air_force",
+    "echelon": "squadron",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "长城中队"
+  },
+  {
+    "id": "parade2019_085",
+    "name": "模范战斗连",
+    "branch": "historical_unspecified",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "模范战斗连",
+    "exerciseParentId": "game_ga82_b3",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_086",
+    "name": "金汤桥连",
+    "branch": "historical_unspecified",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "金汤桥连",
+    "exerciseParentId": "game_ga82_b5",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_087",
+    "name": "渡江模范营",
+    "branch": "historical_unspecified",
+    "echelon": "battalion",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "渡江模范营",
+    "exerciseParentId": "game_ga82_b6",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_088",
+    "name": "英勇神速连",
+    "branch": "historical_unspecified",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "英勇神速连",
+    "exerciseParentId": "game_ga83_b3",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_089",
+    "name": "新兴里战斗模范连",
+    "branch": "historical_unspecified",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "新兴里战斗模范连",
+    "exerciseParentId": "game_ga83_b4",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_091",
+    "name": "英勇顽强功勋卓著特功八连",
+    "branch": "historical_unspecified",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "英勇顽强功勋卓著特功八连",
+    "exerciseParentId": "game_ga83_b5",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_092",
+    "name": "二级英雄连(屡战屡胜)",
+    "branch": "historical_unspecified",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "二级英雄连(屡战屡胜)",
+    "exerciseParentId": "game_ga83_b6",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "parade2019_093",
+    "name": "攻守兼备",
+    "branch": "historical_unspecified",
+    "echelon": "unknown",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "攻守兼备"
+  },
+  {
+    "id": "parade2019_094",
+    "name": "英雄营",
+    "branch": "historical_unspecified",
+    "echelon": "battalion",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "英雄营"
+  },
+  {
+    "id": "parade2019_095",
+    "name": "神威导弹营",
+    "branch": "rocket_force",
+    "echelon": "battalion",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "神威导弹营"
+  },
+  {
+    "id": "parade2019_096",
+    "name": "英雄侦察连",
+    "branch": "historical_unspecified",
+    "echelon": "company",
+    "publicAffiliation": "历史荣誉战旗；现役承继单位未核实",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "2019_parade_flag_name",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/4852216_7.html",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "note": "仅确认战旗名称，不推断现役编制；同名荣誉可能属于不同单位",
+    "honorLinked": false,
+    "honorDisplayName": "英雄侦察连"
+  },
+  {
+    "id": "supplement_107",
+    "name": "暴风雨部队",
+    "branch": "army",
+    "echelon": "brigade",
+    "publicAffiliation": "待核实当前编制与荣誉承继",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "supplement_pending_individual_verification",
+    "source": {
+      "url": "",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "gameParentId": "game_ga73_eng",
+    "gameAffiliationType": "fictional_game_assignment",
+    "gameAffiliationNote": "仅为游戏编组关联，非公开确认的现实隶属。",
+    "specialMissionEligible": false,
+    "specialMissionMode": null,
+    "honorLinked": true,
+    "honorDisplayName": "暴风雨部队"
+  },
+  {
+    "id": "supplement_108",
+    "name": "南京路上好八连",
+    "branch": "army",
+    "echelon": "company",
+    "publicAffiliation": "待核实当前编制与荣誉承继",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "supplement_pending_individual_verification",
+    "source": {
+      "url": "",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "gameParentId": "game_ga73_log",
+    "gameAffiliationType": "fictional_game_assignment",
+    "gameAffiliationNote": "仅为游戏编组关联，非公开确认的现实隶属。",
+    "specialMissionEligible": true,
+    "specialMissionMode": "optional_detachment_shared_strength",
+    "honorLinked": true,
+    "honorDisplayName": "南京路上好八连"
+  },
+  {
+    "id": "supplement_109",
+    "name": "雷锋班",
+    "branch": "army",
+    "echelon": "squad",
+    "publicAffiliation": "待核实当前编制与荣誉承继",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "supplement_pending_individual_verification",
+    "source": {
+      "url": "",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "gameParentId": "game_ga74_b3",
+    "gameAffiliationType": "fictional_game_assignment",
+    "gameAffiliationNote": "仅为游戏编组关联，非公开确认的现实隶属。",
+    "specialMissionEligible": true,
+    "specialMissionMode": "optional_detachment_shared_strength",
+    "honorLinked": true,
+    "honorDisplayName": "雷锋班",
+    "exerciseParentId": "game_ga74_b3",
+    "exerciseAffiliationType": "fictional_game_assignment",
+    "exerciseAffiliationNote": "仅用于现代演习模拟配属；不代表现实中的现役隶属或荣誉承继。"
+  },
+  {
+    "id": "supplement_110",
+    "name": "雷神突击队",
+    "branch": "airborne",
+    "echelon": "detachment",
+    "publicAffiliation": "待核实当前编制与荣誉承继",
+    "numericBrigadeCode": null,
+    "elite": true,
+    "eliteTier": "honor",
+    "sourceStatus": "supplement_pending_individual_verification",
+    "source": {
+      "url": "",
+      "accessed": "2026-10-13"
+    },
+    "gameBonuses": {
+      "attackMultiplier": 2,
+      "defenseMultiplier": 2
+    },
+    "deploymentStatus": "historical_reference_only",
+    "gameParentId": "pla_airborne_b_133",
+    "gameAffiliationType": "fictional_game_assignment",
+    "gameAffiliationNote": "仅为游戏编组关联，非公开确认的现实隶属。",
+    "specialMissionEligible": false,
+    "specialMissionMode": null,
+    "honorLinked": true,
+    "honorDisplayName": "雷神突击队"
+  },
+  {
+    "id": "xinjiang_red_army_division",
+    "name": "红军师",
+    "branch": "army",
+    "echelon": "division",
+    "publicAffiliation": "新疆军区历史荣誉目录",
+    "elite": false,
+    "sourceStatus": "secondary_unverified",
+    "gameParentId": "pla_xinjiang_combat_4",
+    "gameAffiliationType": "historical_reference_only",
+    "gameAffiliationNote": "新疆军区红军师历史传统，具体沿革待核实",
+    "deploymentStatus": "historical_reference_only",
+    "note": "历史荣誉资料目录，不自动生成作战单位；当前隶属与授称性质需核实。"
+  },
+  {
+    "id": "xinjiang_hero_attack_defense",
+    "name": "长攻善守英雄团",
+    "branch": "army",
+    "echelon": "regiment",
+    "publicAffiliation": "新疆军区历史荣誉目录",
+    "elite": false,
+    "sourceStatus": "secondary_unverified",
+    "gameParentId": "pla_military_district_xinjiang",
+    "gameAffiliationType": "historical_reference_only",
+    "gameAffiliationNote": "历史荣誉团；当前下辖关系待核实",
+    "deploymentStatus": "historical_reference_only",
+    "note": "历史荣誉资料目录，不自动生成作战单位；当前隶属与授称性质需核实。"
+  },
+  {
+    "id": "xinjiang_hero_valiant",
+    "name": "勇猛顽强英雄团",
+    "branch": "army",
+    "echelon": "regiment",
+    "publicAffiliation": "新疆军区历史荣誉目录",
+    "elite": false,
+    "sourceStatus": "secondary_unverified",
+    "gameParentId": "pla_military_district_xinjiang",
+    "gameAffiliationType": "historical_reference_only",
+    "gameAffiliationNote": "历史荣誉团；当前下辖关系待核实",
+    "deploymentStatus": "historical_reference_only",
+    "note": "历史荣誉资料目录，不自动生成作战单位；当前隶属与授称性质需核实。"
+  },
+  {
+    "id": "xinjiang_tiger_company",
+    "name": "攻如猛虎英雄连",
+    "branch": "army",
+    "echelon": "company",
+    "publicAffiliation": "新疆军区历史荣誉目录",
+    "elite": false,
+    "sourceStatus": "secondary_unverified",
+    "gameParentId": "pla_military_district_xinjiang",
+    "gameAffiliationType": "historical_reference_only",
+    "gameAffiliationNote": "历史荣誉连；现役隶属待核实",
+    "deploymentStatus": "historical_reference_only",
+    "note": "历史荣誉资料目录，不自动生成作战单位；当前隶属与授称性质需核实。"
+  },
+  {
+    "id": "xinjiang_loving_soldiers",
+    "name": "爱兵模范连",
+    "branch": "army",
+    "echelon": "company",
+    "publicAffiliation": "新疆军区历史荣誉目录",
+    "elite": false,
+    "sourceStatus": "secondary_unverified",
+    "gameParentId": "pla_military_district_xinjiang",
+    "gameAffiliationType": "historical_reference_only",
+    "gameAffiliationNote": "历史荣誉连；现役隶属待核实",
+    "deploymentStatus": "historical_reference_only",
+    "note": "历史荣誉资料目录，不自动生成作战单位；当前隶属与授称性质需核实。"
+  },
+  {
+    "id": "xinjiang_tibet_vanguard",
+    "name": "进藏先遣英雄连",
+    "branch": "army",
+    "echelon": "company",
+    "publicAffiliation": "新疆军区历史荣誉目录",
+    "elite": false,
+    "sourceStatus": "secondary_unverified",
+    "gameParentId": "pla_military_district_xinjiang",
+    "gameAffiliationType": "historical_reference_only",
+    "gameAffiliationNote": "进藏先遣历史荣誉；现役隶属待核实",
+    "deploymentStatus": "historical_reference_only",
+    "note": "历史荣誉资料目录，不自动生成作战单位；当前隶属与授称性质需核实。"
+  },
+  {
+    "id": "tibet_border_model_battalion",
+    "name": "高原戍边模范营",
+    "branch": "army",
+    "echelon": "battalion",
+    "publicAffiliation": "西藏军区历史荣誉目录",
+    "elite": false,
+    "sourceStatus": "secondary_unverified",
+    "gameParentId": "pla_military_district_tibet",
+    "gameAffiliationType": "historical_reference_only",
+    "gameAffiliationNote": "边防荣誉营；具体下辖关系待核实",
+    "deploymentStatus": "historical_reference_only",
+    "note": "历史荣誉资料目录，不自动生成作战单位；当前隶属与授称性质需核实。"
+  },
+  {
+    "id": "tibet_gamba_battalion",
+    "name": "岗巴爱国奉献模范营",
+    "branch": "army",
+    "echelon": "battalion",
+    "publicAffiliation": "西藏军区历史荣誉目录",
+    "elite": false,
+    "sourceStatus": "secondary_unverified",
+    "gameParentId": "pla_military_district_tibet",
+    "gameAffiliationType": "historical_reference_only",
+    "gameAffiliationNote": "岗巴边防荣誉营；具体下辖关系待核实",
+    "deploymentStatus": "historical_reference_only",
+    "note": "历史荣誉资料目录，不自动生成作战单位；当前隶属与授称性质需核实。"
+  },
+  {
+    "id": "tibet_red_border_post",
+    "name": "高原红色边防队",
+    "branch": "army",
+    "echelon": "company",
+    "publicAffiliation": "西藏军区历史荣誉目录",
+    "elite": false,
+    "sourceStatus": "secondary_unverified",
+    "gameParentId": "pla_military_district_tibet",
+    "gameAffiliationType": "historical_reference_only",
+    "gameAffiliationNote": "边防哨所荣誉称号；不代表现役合成旅编制",
+    "deploymentStatus": "historical_reference_only",
+    "note": "历史荣誉资料目录，不自动生成作战单位；当前隶属与授称性质需核实。"
+  },
+  {
+    "id": "tibet_border_company",
+    "name": "强边固防模范连",
+    "branch": "army",
+    "echelon": "company",
+    "publicAffiliation": "西藏军区历史荣誉目录",
+    "elite": false,
+    "sourceStatus": "secondary_unverified",
+    "gameParentId": "pla_military_district_tibet",
+    "gameAffiliationType": "historical_reference_only",
+    "gameAffiliationNote": "边防荣誉连；具体下辖关系待核实",
+    "deploymentStatus": "historical_reference_only",
+    "note": "历史荣誉资料目录，不自动生成作战单位；当前隶属与授称性质需核实。"
+  },
+  {
+    "id": "tibet_southwest_post",
+    "name": "西南第一哨",
+    "branch": "army",
+    "echelon": "platoon",
+    "publicAffiliation": "西藏军区历史荣誉目录",
+    "elite": false,
+    "sourceStatus": "secondary_unverified",
+    "gameParentId": "pla_military_district_tibet",
+    "gameAffiliationType": "historical_reference_only",
+    "gameAffiliationNote": "历史哨所称谓；授称性质待核实",
+    "deploymentStatus": "historical_reference_only",
+    "note": "历史荣誉资料目录，不自动生成作战单位；当前隶属与授称性质需核实。"
+  },
+  {
+    "id": "tibet_cloud_post",
+    "name": "云中哨所",
+    "branch": "army",
+    "echelon": "platoon",
+    "publicAffiliation": "西藏军区历史荣誉目录",
+    "elite": false,
+    "sourceStatus": "secondary_unverified",
+    "gameParentId": "pla_military_district_tibet",
+    "gameAffiliationType": "historical_reference_only",
+    "gameAffiliationNote": "历史哨所称谓；授称性质待核实",
+    "deploymentStatus": "historical_reference_only",
+    "note": "历史荣誉资料目录，不自动生成作战单位；当前隶属与授称性质需核实。"
+  },
+  {
+    "id": "tibet_motuo_model",
+    "name": "墨脱戍边模范营",
+    "branch": "army",
+    "echelon": "battalion",
+    "publicAffiliation": "西藏军区历史荣誉目录",
+    "elite": false,
+    "sourceStatus": "secondary_unverified",
+    "gameParentId": "pla_military_district_tibet",
+    "gameAffiliationType": "historical_reference_only",
+    "gameAffiliationNote": "公开汇编荣誉称号，授称依据待核实",
+    "deploymentStatus": "historical_reference_only",
+    "note": "历史荣誉资料目录，不自动生成作战单位；当前隶属与授称性质需核实。"
+  }
+]

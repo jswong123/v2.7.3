@@ -1,0 +1,227 @@
+[
+  {
+    "id": "plan_ship_101",
+    "branch": "navy",
+    "name": "南昌舰",
+    "hullNumber": "101",
+    "class": "055",
+    "displayCode": "101",
+    "sourceStatus": "public_verified",
+    "source": {
+      "url": "https://eng.mod.gov.cn/2025xb/D/S/16448046.html",
+      "accessed": "2026-10-13"
+    },
+    "honorId": null,
+    "elite": false
+  },
+  {
+    "id": "plan_ship_102",
+    "branch": "navy",
+    "name": "拉萨舰",
+    "hullNumber": "102",
+    "class": "055",
+    "displayCode": "102",
+    "sourceStatus": "public_verified",
+    "source": {
+      "url": "https://eng.mod.gov.cn/2025xb/D/S/16448046.html",
+      "accessed": "2026-10-13"
+    },
+    "honorId": null,
+    "elite": false
+  },
+  {
+    "id": "plan_ship_103",
+    "branch": "navy",
+    "name": "鞍山舰",
+    "hullNumber": "103",
+    "class": "055",
+    "displayCode": "103",
+    "sourceStatus": "public_verified",
+    "source": {
+      "url": "https://eng.mod.gov.cn/2025xb/D/S/16448046.html",
+      "accessed": "2026-10-13"
+    },
+    "honorId": null,
+    "elite": false
+  },
+  {
+    "id": "plan_ship_104",
+    "branch": "navy",
+    "name": "无锡舰",
+    "hullNumber": "104",
+    "class": "055",
+    "displayCode": "104",
+    "sourceStatus": "public_verified",
+    "source": {
+      "url": "https://eng.mod.gov.cn/2025xb/D/S/16448046.html",
+      "accessed": "2026-10-13"
+    },
+    "honorId": null,
+    "elite": false
+  },
+  {
+    "id": "plan_ship_105",
+    "branch": "navy",
+    "name": "大连舰",
+    "hullNumber": "105",
+    "class": "055",
+    "displayCode": "105",
+    "sourceStatus": "public_verified",
+    "source": {
+      "url": "https://eng.mod.gov.cn/2025xb/D/S/16448046.html",
+      "accessed": "2026-10-13"
+    },
+    "honorId": null,
+    "elite": false
+  },
+  {
+    "id": "plan_ship_106",
+    "branch": "navy",
+    "name": "延安舰",
+    "hullNumber": "106",
+    "class": "055",
+    "displayCode": "106",
+    "sourceStatus": "public_verified",
+    "source": {
+      "url": "https://eng.mod.gov.cn/2025xb/D/S/16448046.html",
+      "accessed": "2026-10-13"
+    },
+    "honorId": null,
+    "elite": false
+  },
+  {
+    "id": "plan_ship_107",
+    "branch": "navy",
+    "name": "遵义舰",
+    "hullNumber": "107",
+    "class": "055",
+    "displayCode": "107",
+    "sourceStatus": "public_verified",
+    "source": {
+      "url": "https://eng.mod.gov.cn/2025xb/D/S/16448046.html",
+      "accessed": "2026-10-13"
+    },
+    "honorId": null,
+    "elite": false
+  },
+  {
+    "id": "plan_ship_108",
+    "branch": "navy",
+    "name": "咸阳舰",
+    "hullNumber": "108",
+    "class": "055",
+    "displayCode": "108",
+    "sourceStatus": "public_verified",
+    "source": {
+      "url": "https://eng.mod.gov.cn/2025xb/D/S/16448046.html",
+      "accessed": "2026-10-13"
+    },
+    "honorId": null,
+    "elite": false
+  },
+  {
+    "id": "plan_ship_109",
+    "branch": "navy",
+    "name": "东莞舰",
+    "hullNumber": "109",
+    "class": "055",
+    "displayCode": "109",
+    "sourceStatus": "public_verified",
+    "source": {
+      "url": "https://eng.mod.gov.cn/2025xb/D/S/16448046.html",
+      "accessed": "2026-10-13"
+    },
+    "honorId": null,
+    "elite": false
+  },
+  {
+    "id": "plan_ship_110",
+    "branch": "navy",
+    "name": "安庆舰",
+    "hullNumber": "110",
+    "class": "055",
+    "displayCode": "110",
+    "sourceStatus": "public_verified",
+    "source": {
+      "url": "https://eng.mod.gov.cn/2025xb/D/S/16448046.html",
+      "accessed": "2026-10-13"
+    },
+    "honorId": null,
+    "elite": false
+  },
+  {
+    "id": "plan_ship_176",
+    "branch": "navy",
+    "name": "娄底舰",
+    "hullNumber": "176",
+    "class": "052D",
+    "displayCode": "176",
+    "sourceStatus": "public_verified",
+    "source": {
+      "url": "https://eng.mod.gov.cn/2025xb/D/V/16435190.html",
+      "accessed": "2026-10-13"
+    },
+    "honorId": null,
+    "elite": false
+  },
+  {
+    "id": "plan_ship_177",
+    "branch": "navy",
+    "name": "铜川舰",
+    "hullNumber": "177",
+    "class": "052D",
+    "displayCode": "177",
+    "sourceStatus": "public_verified",
+    "source": {
+      "url": "https://eng.mod.gov.cn/2025xb/D/V/16465161.html",
+      "accessed": "2026-10-13"
+    },
+    "honorId": null,
+    "elite": false
+  },
+  {
+    "id": "plan_ship_128",
+    "branch": "navy",
+    "name": "甘孜舰",
+    "hullNumber": "128",
+    "class": "052D",
+    "displayCode": "128",
+    "sourceStatus": "public_verified",
+    "source": {
+      "url": "https://eng.mod.gov.cn/2025xb/D/V/16442062.html",
+      "accessed": "2026-10-13"
+    },
+    "honorId": null,
+    "elite": false
+  },
+  {
+    "id": "plan_ship_165",
+    "branch": "navy",
+    "name": "湛江舰",
+    "hullNumber": "165",
+    "class": "052D",
+    "displayCode": "165",
+    "sourceStatus": "public_verified",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/qwfb/16394974.html",
+      "accessed": "2026-10-13"
+    },
+    "honorId": null,
+    "elite": false
+  },
+  {
+    "id": "plan_ship_571",
+    "branch": "navy",
+    "name": "运城舰",
+    "hullNumber": "571",
+    "class": "054A",
+    "displayCode": "571",
+    "sourceStatus": "public_verified",
+    "source": {
+      "url": "https://www.mod.gov.cn/gfbw/qwfb/16394974.html",
+      "accessed": "2026-10-13"
+    },
+    "honorId": null,
+    "elite": false
+  }
+]

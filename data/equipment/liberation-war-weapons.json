@@ -1,0 +1,187 @@
+{
+  "period": "1945—1949",
+  "historicalNote": "型号为解放战争时期可见的代表性武器，不代表每个具体军师实际拥有；单位库存为游戏化估计。",
+  "weapons": [
+    {
+      "id": "type24_rifle",
+      "name": "中正式步枪",
+      "ammunition": "7.92×57毫米",
+      "category": "步枪",
+      "origin": "国产",
+      "operation": "栓动",
+      "tacticalRole": "步兵标准武器",
+      "historicalContext": "国械步兵及缴获混编",
+      "quantityEvidence": "未核实具体部队数量"
+    },
+    {
+      "id": "type38_rifle",
+      "name": "三八式步枪",
+      "ammunition": "6.5×50毫米",
+      "category": "步枪",
+      "origin": "日制",
+      "operation": "栓动",
+      "tacticalRole": "步兵标准武器",
+      "historicalContext": "抗战遗留日械及缴获混编",
+      "quantityEvidence": "未核实具体部队数量"
+    },
+    {
+      "id": "hanyang88",
+      "name": "汉阳造八八式步枪",
+      "ammunition": "7.92×57毫米",
+      "category": "步枪",
+      "origin": "国产",
+      "operation": "栓动",
+      "tacticalRole": "步兵标准武器",
+      "historicalContext": "旧式国械",
+      "quantityEvidence": "未核实具体部队数量"
+    },
+    {
+      "id": "m1903",
+      "name": "M1903春田步枪",
+      "ammunition": ".30-06",
+      "category": "步枪",
+      "origin": "美制",
+      "operation": "栓动",
+      "tacticalRole": "步兵标准武器",
+      "historicalContext": "美械混编",
+      "quantityEvidence": "未核实具体部队数量"
+    },
+    {
+      "id": "m1_carbine",
+      "name": "M1卡宾枪",
+      "ammunition": ".30 Carbine",
+      "category": "卡宾枪",
+      "origin": "美制",
+      "operation": "半自动",
+      "tacticalRole": "警卫及通信单位",
+      "historicalContext": "美械及缴获",
+      "quantityEvidence": "未核实具体部队数量"
+    },
+    {
+      "id": "zb26",
+      "name": "捷克式ZB-26轻机枪",
+      "ammunition": "7.92×57毫米",
+      "category": "轻机枪",
+      "origin": "捷克设计",
+      "operation": "自动",
+      "tacticalRole": "班排火力",
+      "historicalContext": "国械混编",
+      "quantityEvidence": "未核实具体部队数量"
+    },
+    {
+      "id": "type96_lmg",
+      "name": "九六式轻机枪",
+      "ammunition": "6.5×50毫米",
+      "category": "轻机枪",
+      "origin": "日制",
+      "operation": "自动",
+      "tacticalRole": "班排火力",
+      "historicalContext": "日械混编",
+      "quantityEvidence": "未核实具体部队数量"
+    },
+    {
+      "id": "m1918_bar",
+      "name": "M1918 BAR自动步枪",
+      "ammunition": ".30-06",
+      "category": "轻机枪",
+      "origin": "美制",
+      "operation": "自动",
+      "tacticalRole": "班排火力",
+      "historicalContext": "美械混编",
+      "quantityEvidence": "未核实具体部队数量"
+    },
+    {
+      "id": "type24_hmg",
+      "name": "民24式马克沁重机枪",
+      "ammunition": "7.92×57毫米",
+      "category": "重机枪",
+      "origin": "国产",
+      "operation": "自动",
+      "tacticalRole": "连营重火力",
+      "historicalContext": "国械混编",
+      "quantityEvidence": "未核实具体部队数量"
+    },
+    {
+      "id": "type92_hmg",
+      "name": "九二式重机枪",
+      "ammunition": "7.7×58毫米",
+      "category": "重机枪",
+      "origin": "日制",
+      "operation": "自动",
+      "tacticalRole": "连营重火力",
+      "historicalContext": "日械混编",
+      "quantityEvidence": "未核实具体部队数量"
+    },
+    {
+      "id": "thompson",
+      "name": "汤姆逊冲锋枪",
+      "ammunition": ".45 ACP",
+      "category": "冲锋枪",
+      "origin": "美制",
+      "operation": "自动",
+      "tacticalRole": "近距离突击",
+      "historicalContext": "美械及缴获",
+      "quantityEvidence": "未核实具体部队数量"
+    },
+    {
+      "id": "m3_smg",
+      "name": "M3冲锋枪",
+      "ammunition": ".45 ACP",
+      "category": "冲锋枪",
+      "origin": "美制",
+      "operation": "自动",
+      "tacticalRole": "近距离突击",
+      "historicalContext": "美械及缴获",
+      "quantityEvidence": "未核实具体部队数量"
+    },
+    {
+      "id": "m2_60mm",
+      "name": "60毫米迫击炮",
+      "ammunition": "60毫米迫击炮弹",
+      "category": "迫击炮",
+      "origin": "多来源",
+      "operation": "间接射击",
+      "tacticalRole": "连营支援",
+      "historicalContext": "多种来源",
+      "quantityEvidence": "未核实具体部队数量"
+    },
+    {
+      "id": "m1_81mm",
+      "name": "81毫米迫击炮",
+      "ammunition": "81毫米迫击炮弹",
+      "category": "迫击炮",
+      "origin": "多来源",
+      "operation": "间接射击",
+      "tacticalRole": "营团支援",
+      "historicalContext": "多种来源",
+      "quantityEvidence": "未核实具体部队数量"
+    },
+    {
+      "id": "type94_75mm",
+      "name": "九四式75毫米山炮",
+      "ammunition": "75毫米炮弹",
+      "category": "山炮",
+      "origin": "日制",
+      "operation": "炮兵",
+      "tacticalRole": "师团火力支援",
+      "historicalContext": "日制及缴获",
+      "quantityEvidence": "未核实具体部队数量"
+    },
+    {
+      "id": "m2a1_105mm",
+      "name": "M2A1 105毫米榴弹炮",
+      "ammunition": "105毫米炮弹",
+      "category": "榴弹炮",
+      "origin": "美制",
+      "operation": "炮兵",
+      "tacticalRole": "军师炮兵",
+      "historicalContext": "美械及缴获",
+      "quantityEvidence": "未核实具体部队数量"
+    }
+  ],
+  "dataPolicy": {
+    "historicalModel": "代表性时期装备，不证明任何指定军师团拥有该型号",
+    "scenarioQuantity": "游戏化估计",
+    "ammunition": "仅作为资料字段；尚未接入消耗和补给"
+  }
+}

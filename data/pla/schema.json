@@ -1,0 +1,16 @@
+{
+  "schemaVersion": "1.0",
+  "recordStatuses": [
+    "public_verified",
+    "public_organization",
+    "pending_source_review",
+    "fictional_game_template"
+  ],
+  "displayRules": {
+    "airborneBrigade": "ab{number}B",
+    "armyGroup": "{number}GA",
+    "navyShip": "hullNumber",
+    "honorElite": "only when honor record bound to unitId"
+  },
+  "note": "This catalog is a curated public-source subset, not an exhaustive inventory of all PLA formations or honors."
+}

@@ -1,0 +1,72 @@
+{
+  "infantry": {
+    "attack": 10,
+    "defense": 12,
+    "movement": 3
+  },
+  "mechanized": {
+    "attack": 16,
+    "defense": 16,
+    "movement": 5
+  },
+  "armor": {
+    "attack": 22,
+    "defense": 18,
+    "movement": 5
+  },
+  "artillery": {
+    "attack": 24,
+    "defense": 7,
+    "movement": 3
+  },
+  "air_defense": {
+    "attack": 12,
+    "defense": 13,
+    "movement": 4
+  },
+  "engineer": {
+    "attack": 7,
+    "defense": 11,
+    "movement": 3
+  },
+  "recon": {
+    "attack": 9,
+    "defense": 8,
+    "movement": 6
+  },
+  "airborne": {
+    "attack": 13,
+    "defense": 10,
+    "movement": 4
+  },
+  "marine": {
+    "attack": 15,
+    "defense": 13,
+    "movement": 4
+  },
+  "ship_destroyer": {
+    "attack": 26,
+    "defense": 22,
+    "movement": 6
+  },
+  "ship_frigate": {
+    "attack": 19,
+    "defense": 17,
+    "movement": 6
+  },
+  "ship_other": {
+    "attack": 12,
+    "defense": 14,
+    "movement": 5
+  },
+  "headquarters": {
+    "attack": 3,
+    "defense": 9,
+    "movement": 3
+  },
+  "support": {
+    "attack": 6,
+    "defense": 9,
+    "movement": 4
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "campaignId": "alternate_pacific",
+  "phaseId": "australia_1943",
+  "policy": "existing scenarios are immutable; planned scenarios are not playable until validated and registered in campaigns.js",
+  "existing": [
+    {
+      "id": "werribee_1943",
+      "name": "威勒比保卫战",
+      "sector": "西南",
+      "status": "available",
+      "date": "1943-09-10"
+    },
+    {
+      "id": "melbourne_1943",
+      "name": "墨尔本保卫战",
+      "sector": "中心",
+      "status": "available",
+      "date": "1943-09-15"
+    },
+    {
+      "id": "melbourne_cbd_1943",
+      "name": "墨尔本城区保卫战",
+      "sector": "核心",
+      "status": "available",
+      "date": "1943-09-28"
+    }
+  ],
+  "planned": [
+    {
+      "id": "geelong_landing_1943",
+      "name": "吉朗登陆战",
+      "sector": "西南",
+      "status": "planned",
+      "scenarioPath": "./data/interface-scenarios/geelong_landing_1943/scenario-geelong_landing_1943.json",
+      "unitsPath": "./data/interface-scenarios/geelong_landing_1943/units-geelong_landing_1943.json",
+      "requiredBeforeActivation": [
+        "validated map",
+        "validated units",
+        "victory objectives",
+        "deployment checks",
+        "campaigns.js registration"
+      ]
+    },
+    {
+      "id": "lara_1943",
+      "name": "拉腊阻击战",
+      "sector": "西南",
+      "status": "planned",
+      "scenarioPath": "./data/interface-scenarios/lara_1943/scenario-lara_1943.json",
+      "unitsPath": "./data/interface-scenarios/lara_1943/units-lara_1943.json",
+      "requiredBeforeActivation": [
+        "validated map",
+        "validated units",
+        "victory objectives",
+        "deployment checks",
+        "campaigns.js registration"
+      ]
+    },
+    {
+      "id": "melton_1943",
+      "name": "梅尔顿保卫战",
+      "sector": "西",
+      "status": "planned",
+      "scenarioPath": "./data/interface-scenarios/melton_1943/scenario-melton_1943.json",
+      "unitsPath": "./data/interface-scenarios/melton_1943/units-melton_1943.json",
+      "requiredBeforeActivation": [
+        "validated map",
+        "validated units",
+        "victory objectives",
+        "deployment checks",
+        "campaigns.js registration"
+      ]
+    },
+    {
+      "id": "sunbury_1943",
+      "name": "森伯里战役",
+      "sector": "西北",
+      "status": "planned",
+      "scenarioPath": "./data/interface-scenarios/sunbury_1943/scenario-sunbury_1943.json",
+      "unitsPath": "./data/interface-scenarios/sunbury_1943/units-sunbury_1943.json",
+      "requiredBeforeActivation": [
+        "validated map",
+        "validated units",
+        "victory objectives",
+        "deployment checks",
+        "campaigns.js registration"
+      ]
+    },
+    {
+      "id": "craigieburn_1943",
+      "name": "克雷吉本阻击战",
+      "sector": "北",
+      "status": "planned",
+      "scenarioPath": "./data/interface-scenarios/craigieburn_1943/scenario-craigieburn_1943.json",
+      "unitsPath": "./data/interface-scenarios/craigieburn_1943/units-craigieburn_1943.json",
+      "requiredBeforeActivation": [
+        "validated map",
+        "validated units",
+        "victory objectives",
+        "deployment checks",
+        "campaigns.js registration"
+      ]
+    },
+    {
+      "id": "epping_1943",
+      "name": "埃平保卫战",
+      "sector": "北",
+      "status": "planned",
+      "scenarioPath": "./data/interface-scenarios/epping_1943/scenario-epping_1943.json",
+      "unitsPath": "./data/interface-scenarios/epping_1943/units-epping_1943.json",
+      "requiredBeforeActivation": [
+        "validated map",
+        "validated units",
+        "victory objectives",
+        "deployment checks",
+        "campaigns.js registration"
+      ]
+    },
+    {
+      "id": "lilydale_1943",
+      "name": "利利代尔战役",
+      "sector": "东",
+      "status": "planned",
+      "scenarioPath": "./data/interface-scenarios/lilydale_1943/scenario-lilydale_1943.json",
+      "unitsPath": "./data/interface-scenarios/lilydale_1943/units-lilydale_1943.json",
+      "requiredBeforeActivation": [
+        "validated map",
+        "validated units",
+        "victory objectives",
+        "deployment checks",
+        "campaigns.js registration"
+      ]
+    },
+    {
+      "id": "dandenong_1943",
+      "name": "丹德农保卫战",
+      "sector": "东南",
+      "status": "available",
+      "scenarioPath": "./data/interface-scenarios/dandenong_1943/scenario-dandenong_1943.json",
+      "unitsPath": "./data/interface-scenarios/dandenong_1943/units-dandenong_1943.json",
+      "requiredBeforeActivation": [
+        "validated map",
+        "validated units",
+        "victory objectives",
+        "deployment checks",
+        "campaigns.js registration"
+      ],
+      "date": "1943-09-12",
+      "mapSize": [
+        88,
+        68
+      ],
+      "unitCount": 84
+    },
+    {
+      "id": "frankston_1943",
+      "name": "弗兰克斯顿战役",
+      "sector": "南",
+      "status": "planned",
+      "scenarioPath": "./data/interface-scenarios/frankston_1943/scenario-frankston_1943.json",
+      "unitsPath": "./data/interface-scenarios/frankston_1943/units-frankston_1943.json",
+      "requiredBeforeActivation": [
+        "validated map",
+        "validated units",
+        "victory objectives",
+        "deployment checks",
+        "campaigns.js registration"
+      ]
+    },
+    {
+      "id": "mornington_peninsula_1943",
+      "name": "莫宁顿半岛战役",
+      "sector": "南",
+      "status": "planned",
+      "scenarioPath": "./data/interface-scenarios/mornington_peninsula_1943/scenario-mornington_peninsula_1943.json",
+      "unitsPath": "./data/interface-scenarios/mornington_peninsula_1943/units-mornington_peninsula_1943.json",
+      "requiredBeforeActivation": [
+        "validated map",
+        "validated units",
+        "victory objectives",
+        "deployment checks",
+        "campaigns.js registration"
+      ]
+    }
+  ]
+}

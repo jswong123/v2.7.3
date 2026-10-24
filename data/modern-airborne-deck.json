@@ -1,0 +1,300 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "modern_airborne",
+  "name": "现代空降兵卡组",
+  "factions": [
+    "red",
+    "blue"
+  ],
+  "gameModes": [
+    "modern_exercise",
+    "zhurihe",
+    "lijian"
+  ],
+  "balanceNote": "所有点数、兵力与资源均为游戏平衡参数，非现实编制数据。",
+  "deckRules": {
+    "budget": null,
+    "transportCapacityMustCoverDeploymentCost": false,
+    "maxCommandCompanies": 2,
+    "requireCommandUnitForIndependentOperations": true,
+    "airdropTerrainBlocked": [
+      "deep_water",
+      "dense_urban",
+      "cliff"
+    ],
+    "landingAssemblyTurns": {
+      "infantry": 1,
+      "mechanized": 2,
+      "support": 1
+    },
+    "initialOrganizationPercent": 70,
+    "initialSupplyPercent": {
+      "ammunition": 65,
+      "fuel": 65
+    },
+    "enemyAirDefenseRisk": "scenario_defined_abstract_modifier",
+    "friendlyAirfieldResupply": true,
+    "allowAirborneEngineerKitResupply": true,
+    "outOfCommandRule": "use_existing_command_confusion_system",
+    "deploymentMode": "airborne_reserve_only",
+    "unlimitedCardCount": true
+  },
+  "units": [
+    {
+      "id": "ab_infantry_bn",
+      "name": "空降步兵营",
+      "echelon": "battalion",
+      "role": "infantry",
+      "personnel": 360,
+      "equipment": {
+        "LYNX_ATV_INFANTRY": 30
+      },
+      "deckCost": 6,
+      "transportCost": 6,
+      "usesFuel": true,
+      "primaryVehicle": "山猫全地形车·运兵型",
+      "mobility": {
+        "movementClass": "amphibious",
+        "waterMobility": "float_crossing",
+        "waterMovementCost": 4,
+        "complexTerrainBonus": true,
+        "waterRestrictions": "禁止深水、急流及特殊障碍地形"
+      }
+    },
+    {
+      "id": "ab_assault_co",
+      "name": "空降突击连",
+      "echelon": "company",
+      "role": "infantry",
+      "personnel": 110,
+      "equipment": {
+        "LYNX_ATV_INFANTRY": 9
+      },
+      "deckCost": 3,
+      "transportCost": 2,
+      "usesFuel": true,
+      "primaryVehicle": "山猫全地形车·运兵型",
+      "mobility": {
+        "movementClass": "amphibious",
+        "waterMobility": "float_crossing",
+        "waterMovementCost": 4,
+        "complexTerrainBonus": true,
+        "waterRestrictions": "禁止深水、急流及特殊障碍地形"
+      }
+    },
+    {
+      "id": "ab_zbd03_bn",
+      "name": "ZBD-03机械化空降营",
+      "echelon": "battalion",
+      "role": "mechanized",
+      "personnel": 270,
+      "equipment": {
+        "ZBD-03": 30
+      },
+      "deckCost": 10,
+      "transportCost": 12,
+      "usesFuel": true
+    },
+    {
+      "id": "ab_zbd03_co",
+      "name": "ZBD-03机械化空降连",
+      "echelon": "company",
+      "role": "mechanized",
+      "personnel": 90,
+      "equipment": {
+        "ZBD-03": 10
+      },
+      "deckCost": 4,
+      "transportCost": 4,
+      "usesFuel": true
+    },
+    {
+      "id": "ab_at_co",
+      "name": "空降反坦克连",
+      "echelon": "company",
+      "role": "anti_armor",
+      "personnel": 80,
+      "equipment": {
+        "AT_system": 8,
+        "LYNX_ATV_ANTI_ARMOR": 7
+      },
+      "deckCost": 4,
+      "transportCost": 3,
+      "usesFuel": true,
+      "primaryVehicle": "山猫全地形车·反坦克型",
+      "mobility": {
+        "movementClass": "amphibious",
+        "waterMobility": "float_crossing",
+        "waterMovementCost": 4,
+        "complexTerrainBonus": true,
+        "waterRestrictions": "禁止深水、急流及特殊障碍地形"
+      }
+    },
+    {
+      "id": "ab_mortar_co",
+      "name": "空降迫击炮连",
+      "echelon": "company",
+      "role": "artillery",
+      "personnel": 70,
+      "equipment": {
+        "mortar": 6,
+        "LYNX_ATV_ARTILLERY": 6
+      },
+      "deckCost": 3,
+      "transportCost": 2,
+      "usesFuel": true,
+      "primaryVehicle": "山猫全地形车·迫击炮运输型",
+      "mobility": {
+        "movementClass": "amphibious",
+        "waterMobility": "float_crossing",
+        "waterMovementCost": 4,
+        "complexTerrainBonus": true,
+        "waterRestrictions": "禁止深水、急流及特殊障碍地形"
+      }
+    },
+    {
+      "id": "ab_air_defense_co",
+      "name": "空降防空连",
+      "echelon": "company",
+      "role": "air_defense",
+      "personnel": 80,
+      "equipment": {
+        "short_range_AD": 8,
+        "LYNX_ATV_AIR_DEFENSE": 7
+      },
+      "deckCost": 4,
+      "transportCost": 3,
+      "usesFuel": true,
+      "primaryVehicle": "山猫全地形车·防空保障型",
+      "mobility": {
+        "movementClass": "amphibious",
+        "waterMobility": "float_crossing",
+        "waterMovementCost": 4,
+        "complexTerrainBonus": true,
+        "waterRestrictions": "禁止深水、急流及特殊障碍地形"
+      }
+    },
+    {
+      "id": "ab_engineer_co",
+      "name": "空降工兵连",
+      "echelon": "company",
+      "role": "engineer",
+      "personnel": 100,
+      "equipment": {
+        "engineering_vehicle": 6,
+        "LYNX_ATV_ENGINEER": 8
+      },
+      "deckCost": 3,
+      "transportCost": 3,
+      "usesFuel": true,
+      "engineerKits": 6,
+      "primaryVehicle": "山猫全地形车·工兵型",
+      "mobility": {
+        "movementClass": "amphibious",
+        "waterMobility": "float_crossing",
+        "waterMovementCost": 4,
+        "complexTerrainBonus": true,
+        "waterRestrictions": "禁止深水、急流及特殊障碍地形"
+      }
+    },
+    {
+      "id": "ab_recon_pl",
+      "name": "空降侦察排",
+      "echelon": "platoon",
+      "role": "recon",
+      "personnel": 30,
+      "equipment": {
+        "LYNX_ATV_RECON": 2
+      },
+      "deckCost": 2,
+      "transportCost": 1,
+      "usesFuel": true,
+      "primaryVehicle": "山猫全地形车·侦察型",
+      "mobility": {
+        "movementClass": "amphibious",
+        "waterMobility": "float_crossing",
+        "waterMovementCost": 4,
+        "complexTerrainBonus": true,
+        "waterRestrictions": "禁止深水、急流及特殊障碍地形"
+      }
+    },
+    {
+      "id": "ab_command_co",
+      "name": "空降通信指挥连",
+      "echelon": "company",
+      "role": "command",
+      "personnel": 80,
+      "equipment": {
+        "command_vehicle": 4,
+        "LYNX_ATV_COMMAND": 7
+      },
+      "deckCost": 3,
+      "transportCost": 2,
+      "usesFuel": true,
+      "primaryVehicle": "山猫全地形车·通信指挥型",
+      "mobility": {
+        "movementClass": "amphibious",
+        "waterMobility": "float_crossing",
+        "waterMovementCost": 4,
+        "complexTerrainBonus": true,
+        "waterRestrictions": "禁止深水、急流及特殊障碍地形"
+      }
+    },
+    {
+      "id": "ab_logistics_co",
+      "name": "空降后勤保障连",
+      "echelon": "company",
+      "role": "logistics",
+      "personnel": 100,
+      "equipment": {
+        "support_vehicle": 8,
+        "LYNX_ATV_LOGISTICS": 8
+      },
+      "deckCost": 3,
+      "transportCost": 4,
+      "usesFuel": true,
+      "primaryVehicle": "山猫全地形车·后勤运输型",
+      "mobility": {
+        "movementClass": "amphibious",
+        "waterMobility": "float_crossing",
+        "waterMovementCost": 4,
+        "complexTerrainBonus": true,
+        "waterRestrictions": "禁止深水、急流及特殊障碍地形"
+      }
+    }
+  ],
+  "aircraft": [
+    {
+      "id": "y20",
+      "name": "运-20",
+      "transportPoints": 12
+    },
+    {
+      "id": "y9",
+      "name": "运-9",
+      "transportPoints": 6
+    },
+    {
+      "id": "il76",
+      "name": "伊尔-76",
+      "transportPoints": 10
+    }
+  ],
+  "transportCompatibility": "Transport points are abstract game capacity only; actual vehicle-aircraft compatibility must be specified by scenario or transport manifest.",
+  "recommendedDeck": {
+    "units": {
+      "ab_infantry_bn": 1,
+      "ab_zbd03_co": 1,
+      "ab_mortar_co": 1,
+      "ab_air_defense_co": 1,
+      "ab_engineer_co": 1,
+      "ab_recon_pl": 1,
+      "ab_command_co": 1,
+      "ab_logistics_co": 1
+    },
+    "aircraft": {
+      "y20": 2,
+      "y9": 1
+    }
+  }
+}

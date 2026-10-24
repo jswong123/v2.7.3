@@ -1,0 +1,12 @@
+{
+  "_templateOnly": true,
+  "id": "REPLACE_WITH_UNIQUE_ID",
+  "name": "待定",
+  "date": "1943-09-XX",
+  "map": {
+    "width": 0,
+    "height": 0,
+    "terrain": []
+  },
+  "_note": "开发时以现有可运行战役scenario格式为准；本模板不用于直接加载"
+}

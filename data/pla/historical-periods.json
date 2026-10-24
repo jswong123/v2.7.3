@@ -1,0 +1,881 @@
+{
+  "title": "人民军队历史编制资料",
+  "scope": "仅人民军队，不含对方部队",
+  "formations": [
+    {
+      "id": "hist_red_root",
+      "name": "中国工农红军（历史编制）",
+      "era": "red",
+      "echelon": "theater",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [
+        "hist_red_first",
+        "hist_red_second",
+        "hist_red_fourth"
+      ],
+      "note": "按历史阶段整理，红军各部番号、隶属随年份变化，不能视为同一时点战斗序列。"
+    },
+    {
+      "id": "hist_red_first",
+      "name": "红一方面军",
+      "era": "red",
+      "echelon": "group_army",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [
+        "hist_red_first_1",
+        "hist_red_first_3"
+      ],
+      "note": "历史上不同阶段指挥员和隶属有变化。",
+      "parentId": "hist_red_root",
+      "commander": "朱德、毛泽东",
+      "equipment": [
+        "步枪",
+        "轻机枪",
+        "重机枪",
+        "手榴弹",
+        "迫击炮（依实际时期和部队配属）"
+      ]
+    },
+    {
+      "id": "hist_red_second",
+      "name": "红二方面军",
+      "era": "red",
+      "echelon": "group_army",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [
+        "hist_red_second_2",
+        "hist_red_second_6"
+      ],
+      "note": "历史上不同阶段指挥员和隶属有变化。",
+      "parentId": "hist_red_root",
+      "commander": "贺龙、任弼时",
+      "equipment": [
+        "步枪",
+        "轻机枪",
+        "重机枪",
+        "手榴弹",
+        "迫击炮（依实际时期和部队配属）"
+      ]
+    },
+    {
+      "id": "hist_red_fourth",
+      "name": "红四方面军",
+      "era": "red",
+      "echelon": "group_army",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [
+        "hist_red_fourth_4",
+        "hist_red_fourth_9",
+        "hist_red_fourth_30",
+        "hist_red_fourth_31"
+      ],
+      "note": "历史上不同阶段指挥员和隶属有变化。",
+      "parentId": "hist_red_root",
+      "commander": "徐向前、陈昌浩",
+      "equipment": [
+        "步枪",
+        "轻机枪",
+        "重机枪",
+        "手榴弹",
+        "迫击炮（依实际时期和部队配属）"
+      ]
+    },
+    {
+      "id": "hist_red_first_1",
+      "name": "红一军团",
+      "era": "red",
+      "echelon": "group_army",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "军团／军级历史编制，师团细目因年份差异需逐期核对。",
+      "parentId": "hist_red_first",
+      "equipment": [
+        "步枪",
+        "轻机枪",
+        "重机枪",
+        "手榴弹",
+        "迫击炮（依实际时期和部队配属）"
+      ]
+    },
+    {
+      "id": "hist_red_first_3",
+      "name": "红三军团",
+      "era": "red",
+      "echelon": "group_army",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "军团／军级历史编制，师团细目因年份差异需逐期核对。",
+      "parentId": "hist_red_first",
+      "equipment": [
+        "步枪",
+        "轻机枪",
+        "重机枪",
+        "手榴弹",
+        "迫击炮（依实际时期和部队配属）"
+      ]
+    },
+    {
+      "id": "hist_red_second_2",
+      "name": "红二军团",
+      "era": "red",
+      "echelon": "group_army",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "军团／军级历史编制，师团细目因年份差异需逐期核对。",
+      "parentId": "hist_red_second",
+      "equipment": [
+        "步枪",
+        "轻机枪",
+        "重机枪",
+        "手榴弹",
+        "迫击炮（依实际时期和部队配属）"
+      ]
+    },
+    {
+      "id": "hist_red_second_6",
+      "name": "红六军团",
+      "era": "red",
+      "echelon": "group_army",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "军团／军级历史编制，师团细目因年份差异需逐期核对。",
+      "parentId": "hist_red_second",
+      "equipment": [
+        "步枪",
+        "轻机枪",
+        "重机枪",
+        "手榴弹",
+        "迫击炮（依实际时期和部队配属）"
+      ]
+    },
+    {
+      "id": "hist_red_fourth_4",
+      "name": "红四军",
+      "era": "red",
+      "echelon": "group_army",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "军团／军级历史编制，师团细目因年份差异需逐期核对。",
+      "parentId": "hist_red_fourth",
+      "equipment": [
+        "步枪",
+        "轻机枪",
+        "重机枪",
+        "手榴弹",
+        "迫击炮（依实际时期和部队配属）"
+      ]
+    },
+    {
+      "id": "hist_red_fourth_9",
+      "name": "红九军",
+      "era": "red",
+      "echelon": "group_army",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "军团／军级历史编制，师团细目因年份差异需逐期核对。",
+      "parentId": "hist_red_fourth",
+      "equipment": [
+        "步枪",
+        "轻机枪",
+        "重机枪",
+        "手榴弹",
+        "迫击炮（依实际时期和部队配属）"
+      ]
+    },
+    {
+      "id": "hist_red_fourth_30",
+      "name": "红三十军",
+      "era": "red",
+      "echelon": "group_army",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "军团／军级历史编制，师团细目因年份差异需逐期核对。",
+      "parentId": "hist_red_fourth",
+      "equipment": [
+        "步枪",
+        "轻机枪",
+        "重机枪",
+        "手榴弹",
+        "迫击炮（依实际时期和部队配属）"
+      ]
+    },
+    {
+      "id": "hist_red_fourth_31",
+      "name": "红三十一军",
+      "era": "red",
+      "echelon": "group_army",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "军团／军级历史编制，师团细目因年份差异需逐期核对。",
+      "parentId": "hist_red_fourth",
+      "equipment": [
+        "步枪",
+        "轻机枪",
+        "重机枪",
+        "手榴弹",
+        "迫击炮（依实际时期和部队配属）"
+      ]
+    },
+    {
+      "id": "hist_res_root",
+      "name": "抗日战争时期人民武装",
+      "era": "resistance",
+      "echelon": "theater",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [
+        "hist_8th",
+        "hist_n4",
+        "hist_neaj"
+      ],
+      "note": "八路军、新四军与东北抗日联军分开建档。"
+    },
+    {
+      "id": "hist_8th",
+      "name": "八路军总部（1937年改编）",
+      "era": "resistance",
+      "echelon": "group_army",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [
+        "hist_8th_115",
+        "hist_8th_120",
+        "hist_8th_129"
+      ],
+      "note": "1937年改编时下辖第115、第120、第129师；后续扩编需按年份另立记录。",
+      "parentId": "hist_res_root",
+      "commander": "朱德、彭德怀",
+      "equipment": [
+        "步枪",
+        "轻机枪",
+        "重机枪",
+        "手榴弹",
+        "迫击炮（依实际时期和部队配属）"
+      ]
+    },
+    {
+      "id": "hist_8th_115",
+      "name": "第115师",
+      "era": "resistance",
+      "echelon": "division",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [
+        "hist_8th_115_343",
+        "hist_8th_115_344"
+      ],
+      "note": "1937年初期基本建制，独立团及师直属部队随时间变化。",
+      "parentId": "hist_8th",
+      "commander": "林彪、聂荣臻",
+      "equipment": [
+        "步枪",
+        "轻机枪",
+        "重机枪",
+        "手榴弹",
+        "迫击炮（依实际时期和部队配属）"
+      ]
+    },
+    {
+      "id": "hist_8th_115_343",
+      "name": "第343旅",
+      "era": "resistance",
+      "echelon": "brigade",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "1937年改编时旅级番号；团级具体隶属需按时间点核实。",
+      "parentId": "hist_8th_115",
+      "equipment": [
+        "步枪",
+        "轻机枪",
+        "重机枪",
+        "手榴弹",
+        "迫击炮（依实际时期和部队配属）"
+      ]
+    },
+    {
+      "id": "hist_8th_115_344",
+      "name": "第344旅",
+      "era": "resistance",
+      "echelon": "brigade",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "1937年改编时旅级番号；团级具体隶属需按时间点核实。",
+      "parentId": "hist_8th_115",
+      "equipment": [
+        "步枪",
+        "轻机枪",
+        "重机枪",
+        "手榴弹",
+        "迫击炮（依实际时期和部队配属）"
+      ]
+    },
+    {
+      "id": "hist_8th_120",
+      "name": "第120师",
+      "era": "resistance",
+      "echelon": "division",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [
+        "hist_8th_120_358",
+        "hist_8th_120_359"
+      ],
+      "note": "1937年初期基本建制，独立团及师直属部队随时间变化。",
+      "parentId": "hist_8th",
+      "commander": "贺龙、关向应",
+      "equipment": [
+        "步枪",
+        "轻机枪",
+        "重机枪",
+        "手榴弹",
+        "迫击炮（依实际时期和部队配属）"
+      ]
+    },
+    {
+      "id": "hist_8th_120_358",
+      "name": "第358旅",
+      "era": "resistance",
+      "echelon": "brigade",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "1937年改编时旅级番号；团级具体隶属需按时间点核实。",
+      "parentId": "hist_8th_120",
+      "equipment": [
+        "步枪",
+        "轻机枪",
+        "重机枪",
+        "手榴弹",
+        "迫击炮（依实际时期和部队配属）"
+      ]
+    },
+    {
+      "id": "hist_8th_120_359",
+      "name": "第359旅",
+      "era": "resistance",
+      "echelon": "brigade",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "1937年改编时旅级番号；团级具体隶属需按时间点核实。",
+      "parentId": "hist_8th_120",
+      "equipment": [
+        "步枪",
+        "轻机枪",
+        "重机枪",
+        "手榴弹",
+        "迫击炮（依实际时期和部队配属）"
+      ]
+    },
+    {
+      "id": "hist_8th_129",
+      "name": "第129师",
+      "era": "resistance",
+      "echelon": "division",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [
+        "hist_8th_129_385",
+        "hist_8th_129_386"
+      ],
+      "note": "1937年初期基本建制，独立团及师直属部队随时间变化。",
+      "parentId": "hist_8th",
+      "commander": "刘伯承、徐向前",
+      "equipment": [
+        "步枪",
+        "轻机枪",
+        "重机枪",
+        "手榴弹",
+        "迫击炮（依实际时期和部队配属）"
+      ]
+    },
+    {
+      "id": "hist_8th_129_385",
+      "name": "第385旅",
+      "era": "resistance",
+      "echelon": "brigade",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "1937年改编时旅级番号；团级具体隶属需按时间点核实。",
+      "parentId": "hist_8th_129",
+      "equipment": [
+        "步枪",
+        "轻机枪",
+        "重机枪",
+        "手榴弹",
+        "迫击炮（依实际时期和部队配属）"
+      ]
+    },
+    {
+      "id": "hist_8th_129_386",
+      "name": "第386旅",
+      "era": "resistance",
+      "echelon": "brigade",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "1937年改编时旅级番号；团级具体隶属需按时间点核实。",
+      "parentId": "hist_8th_129",
+      "equipment": [
+        "步枪",
+        "轻机枪",
+        "重机枪",
+        "手榴弹",
+        "迫击炮（依实际时期和部队配属）"
+      ]
+    },
+    {
+      "id": "hist_n4",
+      "name": "新四军军部（1937年）",
+      "era": "resistance",
+      "echelon": "group_army",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [
+        "hist_n4_det1",
+        "hist_n4_det2",
+        "hist_n4_det3",
+        "hist_n4_det4"
+      ],
+      "note": "1937年组建；初期4个支队，1941年后编制重建。",
+      "parentId": "hist_res_root",
+      "commander": "叶挺、项英",
+      "equipment": [
+        "步枪",
+        "轻机枪",
+        "重机枪",
+        "手榴弹",
+        "迫击炮（依实际时期和部队配属）"
+      ]
+    },
+    {
+      "id": "hist_n4_det1",
+      "name": "第1支队",
+      "era": "resistance",
+      "echelon": "brigade",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "初期支队编制；下属团应逐期核实。",
+      "parentId": "hist_n4",
+      "equipment": [
+        "步枪",
+        "轻机枪",
+        "重机枪",
+        "手榴弹",
+        "迫击炮（依实际时期和部队配属）"
+      ]
+    },
+    {
+      "id": "hist_n4_det2",
+      "name": "第2支队",
+      "era": "resistance",
+      "echelon": "brigade",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "初期支队编制；下属团应逐期核实。",
+      "parentId": "hist_n4",
+      "equipment": [
+        "步枪",
+        "轻机枪",
+        "重机枪",
+        "手榴弹",
+        "迫击炮（依实际时期和部队配属）"
+      ]
+    },
+    {
+      "id": "hist_n4_det3",
+      "name": "第3支队",
+      "era": "resistance",
+      "echelon": "brigade",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "初期支队编制；下属团应逐期核实。",
+      "parentId": "hist_n4",
+      "equipment": [
+        "步枪",
+        "轻机枪",
+        "重机枪",
+        "手榴弹",
+        "迫击炮（依实际时期和部队配属）"
+      ]
+    },
+    {
+      "id": "hist_n4_det4",
+      "name": "第4支队",
+      "era": "resistance",
+      "echelon": "brigade",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "初期支队编制；下属团应逐期核实。",
+      "parentId": "hist_n4",
+      "equipment": [
+        "步枪",
+        "轻机枪",
+        "重机枪",
+        "手榴弹",
+        "迫击炮（依实际时期和部队配属）"
+      ]
+    },
+    {
+      "id": "hist_neaj",
+      "name": "东北抗日联军",
+      "era": "resistance",
+      "echelon": "group_army",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "各军及路军沿革复杂，未核实具体年份不展开虚构师团。",
+      "parentId": "hist_res_root",
+      "equipment": [
+        "步枪",
+        "轻机枪",
+        "重机枪",
+        "手榴弹",
+        "迫击炮（依实际时期和部队配属）"
+      ]
+    },
+    {
+      "id": "hist_vol_root",
+      "name": "中国人民志愿军（1950—1958）",
+      "era": "volunteers",
+      "echelon": "theater",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [
+        "hist_vol_army_38",
+        "hist_vol_army_39",
+        "hist_vol_army_40",
+        "hist_vol_army_42",
+        "hist_vol_army_50",
+        "hist_vol_army_66",
+        "hist_vol_army_20",
+        "hist_vol_army_26",
+        "hist_vol_army_27",
+        "hist_vol_army_12",
+        "hist_vol_army_15",
+        "hist_vol_army_60",
+        "hist_vol_army_63",
+        "hist_vol_army_64",
+        "hist_vol_army_65",
+        "hist_vol_army_67",
+        "hist_vol_army_68"
+      ],
+      "note": "不同批次入朝部队不可视为同一时点同时在朝。",
+      "commander": "彭德怀（入朝初期）",
+      "equipment": [
+        "步兵轻武器",
+        "迫击炮",
+        "山炮／野炮",
+        "苏制火炮及车辆（后期逐步补充）"
+      ]
+    },
+    {
+      "id": "hist_vol_army_38",
+      "name": "第38军",
+      "era": "volunteers",
+      "echelon": "group_army",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "志愿军入朝部队历史番号；入朝批次、师级隶属及装备应按具体日期核实。",
+      "parentId": "hist_vol_root",
+      "equipment": [
+        "步枪",
+        "轻重机枪",
+        "迫击炮",
+        "山炮／野炮（配属依时间变化）"
+      ]
+    },
+    {
+      "id": "hist_vol_army_39",
+      "name": "第39军",
+      "era": "volunteers",
+      "echelon": "group_army",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "志愿军入朝部队历史番号；入朝批次、师级隶属及装备应按具体日期核实。",
+      "parentId": "hist_vol_root",
+      "equipment": [
+        "步枪",
+        "轻重机枪",
+        "迫击炮",
+        "山炮／野炮（配属依时间变化）"
+      ]
+    },
+    {
+      "id": "hist_vol_army_40",
+      "name": "第40军",
+      "era": "volunteers",
+      "echelon": "group_army",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "志愿军入朝部队历史番号；入朝批次、师级隶属及装备应按具体日期核实。",
+      "parentId": "hist_vol_root",
+      "equipment": [
+        "步枪",
+        "轻重机枪",
+        "迫击炮",
+        "山炮／野炮（配属依时间变化）"
+      ]
+    },
+    {
+      "id": "hist_vol_army_42",
+      "name": "第42军",
+      "era": "volunteers",
+      "echelon": "group_army",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "志愿军入朝部队历史番号；入朝批次、师级隶属及装备应按具体日期核实。",
+      "parentId": "hist_vol_root",
+      "equipment": [
+        "步枪",
+        "轻重机枪",
+        "迫击炮",
+        "山炮／野炮（配属依时间变化）"
+      ]
+    },
+    {
+      "id": "hist_vol_army_50",
+      "name": "第50军",
+      "era": "volunteers",
+      "echelon": "group_army",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "志愿军入朝部队历史番号；入朝批次、师级隶属及装备应按具体日期核实。",
+      "parentId": "hist_vol_root",
+      "equipment": [
+        "步枪",
+        "轻重机枪",
+        "迫击炮",
+        "山炮／野炮（配属依时间变化）"
+      ]
+    },
+    {
+      "id": "hist_vol_army_66",
+      "name": "第66军",
+      "era": "volunteers",
+      "echelon": "group_army",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "志愿军入朝部队历史番号；入朝批次、师级隶属及装备应按具体日期核实。",
+      "parentId": "hist_vol_root",
+      "equipment": [
+        "步枪",
+        "轻重机枪",
+        "迫击炮",
+        "山炮／野炮（配属依时间变化）"
+      ]
+    },
+    {
+      "id": "hist_vol_army_20",
+      "name": "第20军",
+      "era": "volunteers",
+      "echelon": "group_army",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "志愿军入朝部队历史番号；入朝批次、师级隶属及装备应按具体日期核实。",
+      "parentId": "hist_vol_root",
+      "equipment": [
+        "步枪",
+        "轻重机枪",
+        "迫击炮",
+        "山炮／野炮（配属依时间变化）"
+      ]
+    },
+    {
+      "id": "hist_vol_army_26",
+      "name": "第26军",
+      "era": "volunteers",
+      "echelon": "group_army",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "志愿军入朝部队历史番号；入朝批次、师级隶属及装备应按具体日期核实。",
+      "parentId": "hist_vol_root",
+      "equipment": [
+        "步枪",
+        "轻重机枪",
+        "迫击炮",
+        "山炮／野炮（配属依时间变化）"
+      ]
+    },
+    {
+      "id": "hist_vol_army_27",
+      "name": "第27军",
+      "era": "volunteers",
+      "echelon": "group_army",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "志愿军入朝部队历史番号；入朝批次、师级隶属及装备应按具体日期核实。",
+      "parentId": "hist_vol_root",
+      "equipment": [
+        "步枪",
+        "轻重机枪",
+        "迫击炮",
+        "山炮／野炮（配属依时间变化）"
+      ]
+    },
+    {
+      "id": "hist_vol_army_12",
+      "name": "第12军",
+      "era": "volunteers",
+      "echelon": "group_army",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "志愿军入朝部队历史番号；入朝批次、师级隶属及装备应按具体日期核实。",
+      "parentId": "hist_vol_root",
+      "equipment": [
+        "步枪",
+        "轻重机枪",
+        "迫击炮",
+        "山炮／野炮（配属依时间变化）"
+      ]
+    },
+    {
+      "id": "hist_vol_army_15",
+      "name": "第15军",
+      "era": "volunteers",
+      "echelon": "group_army",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "志愿军入朝部队历史番号；入朝批次、师级隶属及装备应按具体日期核实。",
+      "parentId": "hist_vol_root",
+      "equipment": [
+        "步枪",
+        "轻重机枪",
+        "迫击炮",
+        "山炮／野炮（配属依时间变化）"
+      ]
+    },
+    {
+      "id": "hist_vol_army_60",
+      "name": "第60军",
+      "era": "volunteers",
+      "echelon": "group_army",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "志愿军入朝部队历史番号；入朝批次、师级隶属及装备应按具体日期核实。",
+      "parentId": "hist_vol_root",
+      "equipment": [
+        "步枪",
+        "轻重机枪",
+        "迫击炮",
+        "山炮／野炮（配属依时间变化）"
+      ]
+    },
+    {
+      "id": "hist_vol_army_63",
+      "name": "第63军",
+      "era": "volunteers",
+      "echelon": "group_army",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "志愿军入朝部队历史番号；入朝批次、师级隶属及装备应按具体日期核实。",
+      "parentId": "hist_vol_root",
+      "equipment": [
+        "步枪",
+        "轻重机枪",
+        "迫击炮",
+        "山炮／野炮（配属依时间变化）"
+      ]
+    },
+    {
+      "id": "hist_vol_army_64",
+      "name": "第64军",
+      "era": "volunteers",
+      "echelon": "group_army",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "志愿军入朝部队历史番号；入朝批次、师级隶属及装备应按具体日期核实。",
+      "parentId": "hist_vol_root",
+      "equipment": [
+        "步枪",
+        "轻重机枪",
+        "迫击炮",
+        "山炮／野炮（配属依时间变化）"
+      ]
+    },
+    {
+      "id": "hist_vol_army_65",
+      "name": "第65军",
+      "era": "volunteers",
+      "echelon": "group_army",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "志愿军入朝部队历史番号；入朝批次、师级隶属及装备应按具体日期核实。",
+      "parentId": "hist_vol_root",
+      "equipment": [
+        "步枪",
+        "轻重机枪",
+        "迫击炮",
+        "山炮／野炮（配属依时间变化）"
+      ]
+    },
+    {
+      "id": "hist_vol_army_67",
+      "name": "第67军",
+      "era": "volunteers",
+      "echelon": "group_army",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "志愿军入朝部队历史番号；入朝批次、师级隶属及装备应按具体日期核实。",
+      "parentId": "hist_vol_root",
+      "equipment": [
+        "步枪",
+        "轻重机枪",
+        "迫击炮",
+        "山炮／野炮（配属依时间变化）"
+      ]
+    },
+    {
+      "id": "hist_vol_army_68",
+      "name": "第68军",
+      "era": "volunteers",
+      "echelon": "group_army",
+      "branch": "army",
+      "sourceStatus": "historical_public_reference",
+      "subordinates": [],
+      "note": "志愿军入朝部队历史番号；入朝批次、师级隶属及装备应按具体日期核实。",
+      "parentId": "hist_vol_root",
+      "equipment": [
+        "步枪",
+        "轻重机枪",
+        "迫击炮",
+        "山炮／野炮（配属依时间变化）"
+      ]
+    }
+  ]
+}

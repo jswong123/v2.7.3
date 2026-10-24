@@ -1,0 +1,1046 @@
+[
+  {
+    "id": "card-ab127B-BN1",
+    "unitId": "ab127B-BN1",
+    "category": "airborne_battalion",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab127B-BN1-C1",
+      "card-ab127B-BN1-C2",
+      "card-ab127B-BN1-C3"
+    ],
+    "transportCost": 3
+  },
+  {
+    "id": "card-ab127B-BN1-C1",
+    "unitId": "ab127B-BN1-C1",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab127B-BN1"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab127B-BN1-C2",
+    "unitId": "ab127B-BN1-C2",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab127B-BN1"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab127B-BN1-C3",
+    "unitId": "ab127B-BN1-C3",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab127B-BN1"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab127B-BN2",
+    "unitId": "ab127B-BN2",
+    "category": "airborne_battalion",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab127B-BN2-C1",
+      "card-ab127B-BN2-C2",
+      "card-ab127B-BN2-C3"
+    ],
+    "transportCost": 3
+  },
+  {
+    "id": "card-ab127B-BN2-C1",
+    "unitId": "ab127B-BN2-C1",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab127B-BN2"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab127B-BN2-C2",
+    "unitId": "ab127B-BN2-C2",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab127B-BN2"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab127B-BN2-C3",
+    "unitId": "ab127B-BN2-C3",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab127B-BN2"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab127B-BN3",
+    "unitId": "ab127B-BN3",
+    "category": "airborne_battalion",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab127B-BN3-C1",
+      "card-ab127B-BN3-C2",
+      "card-ab127B-BN3-C3"
+    ],
+    "transportCost": 3
+  },
+  {
+    "id": "card-ab127B-BN3-C1",
+    "unitId": "ab127B-BN3-C1",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab127B-BN3"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab127B-BN3-C2",
+    "unitId": "ab127B-BN3-C2",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab127B-BN3"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab127B-BN3-C3",
+    "unitId": "ab127B-BN3-C3",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab127B-BN3"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab127B-ARTILLERY",
+    "unitId": "ab127B-ARTILLERY",
+    "category": "airborne_artillery",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 3
+  },
+  {
+    "id": "card-ab127B-LOGISTICS",
+    "unitId": "ab127B-LOGISTICS",
+    "category": "airborne_logistics",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 3
+  },
+  {
+    "id": "card-ab127B-RECON",
+    "unitId": "ab127B-RECON",
+    "category": "airborne_recon",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab127B-ENGINEER",
+    "unitId": "ab127B-ENGINEER",
+    "category": "airborne_engineer",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab127B-AIR_DEFENSE",
+    "unitId": "ab127B-AIR_DEFENSE",
+    "category": "airborne_air_defense",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab127B-SPECIAL_FORCES",
+    "unitId": "ab127B-SPECIAL_FORCES",
+    "category": "airborne_special_forces",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab128B-BN1",
+    "unitId": "ab128B-BN1",
+    "category": "airborne_battalion",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab128B-BN1-C1",
+      "card-ab128B-BN1-C2",
+      "card-ab128B-BN1-C3"
+    ],
+    "transportCost": 3
+  },
+  {
+    "id": "card-ab128B-BN1-C1",
+    "unitId": "ab128B-BN1-C1",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab128B-BN1"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab128B-BN1-C2",
+    "unitId": "ab128B-BN1-C2",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab128B-BN1"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab128B-BN1-C3",
+    "unitId": "ab128B-BN1-C3",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab128B-BN1"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab128B-BN2",
+    "unitId": "ab128B-BN2",
+    "category": "airborne_battalion",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab128B-BN2-C1",
+      "card-ab128B-BN2-C2",
+      "card-ab128B-BN2-C3"
+    ],
+    "transportCost": 3
+  },
+  {
+    "id": "card-ab128B-BN2-C1",
+    "unitId": "ab128B-BN2-C1",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab128B-BN2"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab128B-BN2-C2",
+    "unitId": "ab128B-BN2-C2",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab128B-BN2"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab128B-BN2-C3",
+    "unitId": "ab128B-BN2-C3",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab128B-BN2"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab128B-BN3",
+    "unitId": "ab128B-BN3",
+    "category": "airborne_battalion",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab128B-BN3-C1",
+      "card-ab128B-BN3-C2",
+      "card-ab128B-BN3-C3"
+    ],
+    "transportCost": 3
+  },
+  {
+    "id": "card-ab128B-BN3-C1",
+    "unitId": "ab128B-BN3-C1",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab128B-BN3"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab128B-BN3-C2",
+    "unitId": "ab128B-BN3-C2",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab128B-BN3"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab128B-BN3-C3",
+    "unitId": "ab128B-BN3-C3",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab128B-BN3"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab128B-ARTILLERY",
+    "unitId": "ab128B-ARTILLERY",
+    "category": "airborne_artillery",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 3
+  },
+  {
+    "id": "card-ab128B-LOGISTICS",
+    "unitId": "ab128B-LOGISTICS",
+    "category": "airborne_logistics",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 3
+  },
+  {
+    "id": "card-ab128B-RECON",
+    "unitId": "ab128B-RECON",
+    "category": "airborne_recon",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab128B-ENGINEER",
+    "unitId": "ab128B-ENGINEER",
+    "category": "airborne_engineer",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab128B-AIR_DEFENSE",
+    "unitId": "ab128B-AIR_DEFENSE",
+    "category": "airborne_air_defense",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab128B-SPECIAL_FORCES",
+    "unitId": "ab128B-SPECIAL_FORCES",
+    "category": "airborne_special_forces",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab130B-BN1",
+    "unitId": "ab130B-BN1",
+    "category": "airborne_battalion",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab130B-BN1-C1",
+      "card-ab130B-BN1-C2",
+      "card-ab130B-BN1-C3"
+    ],
+    "transportCost": 3
+  },
+  {
+    "id": "card-ab130B-BN1-C1",
+    "unitId": "ab130B-BN1-C1",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab130B-BN1"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab130B-BN1-C2",
+    "unitId": "ab130B-BN1-C2",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab130B-BN1"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab130B-BN1-C3",
+    "unitId": "ab130B-BN1-C3",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab130B-BN1"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab130B-BN2",
+    "unitId": "ab130B-BN2",
+    "category": "airborne_battalion",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab130B-BN2-C1",
+      "card-ab130B-BN2-C2",
+      "card-ab130B-BN2-C3"
+    ],
+    "transportCost": 3
+  },
+  {
+    "id": "card-ab130B-BN2-C1",
+    "unitId": "ab130B-BN2-C1",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab130B-BN2"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab130B-BN2-C2",
+    "unitId": "ab130B-BN2-C2",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab130B-BN2"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab130B-BN2-C3",
+    "unitId": "ab130B-BN2-C3",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab130B-BN2"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab130B-BN3",
+    "unitId": "ab130B-BN3",
+    "category": "airborne_battalion",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab130B-BN3-C1",
+      "card-ab130B-BN3-C2",
+      "card-ab130B-BN3-C3"
+    ],
+    "transportCost": 3
+  },
+  {
+    "id": "card-ab130B-BN3-C1",
+    "unitId": "ab130B-BN3-C1",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab130B-BN3"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab130B-BN3-C2",
+    "unitId": "ab130B-BN3-C2",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab130B-BN3"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab130B-BN3-C3",
+    "unitId": "ab130B-BN3-C3",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab130B-BN3"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab130B-ARTILLERY",
+    "unitId": "ab130B-ARTILLERY",
+    "category": "airborne_artillery",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 3
+  },
+  {
+    "id": "card-ab130B-LOGISTICS",
+    "unitId": "ab130B-LOGISTICS",
+    "category": "airborne_logistics",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 3
+  },
+  {
+    "id": "card-ab130B-RECON",
+    "unitId": "ab130B-RECON",
+    "category": "airborne_recon",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab130B-ENGINEER",
+    "unitId": "ab130B-ENGINEER",
+    "category": "airborne_engineer",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab130B-AIR_DEFENSE",
+    "unitId": "ab130B-AIR_DEFENSE",
+    "category": "airborne_air_defense",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab130B-SPECIAL_FORCES",
+    "unitId": "ab130B-SPECIAL_FORCES",
+    "category": "airborne_special_forces",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab131B-BN1",
+    "unitId": "ab131B-BN1",
+    "category": "airborne_battalion",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab131B-BN1-C1",
+      "card-ab131B-BN1-C2",
+      "card-ab131B-BN1-C3"
+    ],
+    "transportCost": 3
+  },
+  {
+    "id": "card-ab131B-BN1-C1",
+    "unitId": "ab131B-BN1-C1",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab131B-BN1"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab131B-BN1-C2",
+    "unitId": "ab131B-BN1-C2",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab131B-BN1"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab131B-BN1-C3",
+    "unitId": "ab131B-BN1-C3",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab131B-BN1"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab131B-BN2",
+    "unitId": "ab131B-BN2",
+    "category": "airborne_battalion",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab131B-BN2-C1",
+      "card-ab131B-BN2-C2",
+      "card-ab131B-BN2-C3"
+    ],
+    "transportCost": 3
+  },
+  {
+    "id": "card-ab131B-BN2-C1",
+    "unitId": "ab131B-BN2-C1",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab131B-BN2"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab131B-BN2-C2",
+    "unitId": "ab131B-BN2-C2",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab131B-BN2"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab131B-BN2-C3",
+    "unitId": "ab131B-BN2-C3",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab131B-BN2"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab131B-BN3",
+    "unitId": "ab131B-BN3",
+    "category": "airborne_battalion",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab131B-BN3-C1",
+      "card-ab131B-BN3-C2",
+      "card-ab131B-BN3-C3"
+    ],
+    "transportCost": 3
+  },
+  {
+    "id": "card-ab131B-BN3-C1",
+    "unitId": "ab131B-BN3-C1",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab131B-BN3"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab131B-BN3-C2",
+    "unitId": "ab131B-BN3-C2",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab131B-BN3"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab131B-BN3-C3",
+    "unitId": "ab131B-BN3-C3",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab131B-BN3"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab131B-ARTILLERY",
+    "unitId": "ab131B-ARTILLERY",
+    "category": "airborne_artillery",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 3
+  },
+  {
+    "id": "card-ab131B-LOGISTICS",
+    "unitId": "ab131B-LOGISTICS",
+    "category": "airborne_logistics",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 3
+  },
+  {
+    "id": "card-ab131B-RECON",
+    "unitId": "ab131B-RECON",
+    "category": "airborne_recon",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab131B-ENGINEER",
+    "unitId": "ab131B-ENGINEER",
+    "category": "airborne_engineer",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab131B-AIR_DEFENSE",
+    "unitId": "ab131B-AIR_DEFENSE",
+    "category": "airborne_air_defense",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab131B-SPECIAL_FORCES",
+    "unitId": "ab131B-SPECIAL_FORCES",
+    "category": "airborne_special_forces",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab133B-BN1",
+    "unitId": "ab133B-BN1",
+    "category": "airborne_battalion",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab133B-BN1-C1",
+      "card-ab133B-BN1-C2",
+      "card-ab133B-BN1-C3"
+    ],
+    "transportCost": 3
+  },
+  {
+    "id": "card-ab133B-BN1-C1",
+    "unitId": "ab133B-BN1-C1",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab133B-BN1"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab133B-BN1-C2",
+    "unitId": "ab133B-BN1-C2",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab133B-BN1"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab133B-BN1-C3",
+    "unitId": "ab133B-BN1-C3",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab133B-BN1"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab133B-BN2",
+    "unitId": "ab133B-BN2",
+    "category": "airborne_battalion",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab133B-BN2-C1",
+      "card-ab133B-BN2-C2",
+      "card-ab133B-BN2-C3"
+    ],
+    "transportCost": 3
+  },
+  {
+    "id": "card-ab133B-BN2-C1",
+    "unitId": "ab133B-BN2-C1",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab133B-BN2"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab133B-BN2-C2",
+    "unitId": "ab133B-BN2-C2",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab133B-BN2"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab133B-BN2-C3",
+    "unitId": "ab133B-BN2-C3",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab133B-BN2"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab133B-BN3",
+    "unitId": "ab133B-BN3",
+    "category": "airborne_battalion",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab133B-BN3-C1",
+      "card-ab133B-BN3-C2",
+      "card-ab133B-BN3-C3"
+    ],
+    "transportCost": 3
+  },
+  {
+    "id": "card-ab133B-BN3-C1",
+    "unitId": "ab133B-BN3-C1",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab133B-BN3"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab133B-BN3-C2",
+    "unitId": "ab133B-BN3-C2",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab133B-BN3"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab133B-BN3-C3",
+    "unitId": "ab133B-BN3-C3",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab133B-BN3"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab133B-ARTILLERY",
+    "unitId": "ab133B-ARTILLERY",
+    "category": "airborne_artillery",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 3
+  },
+  {
+    "id": "card-ab133B-LOGISTICS",
+    "unitId": "ab133B-LOGISTICS",
+    "category": "airborne_logistics",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 3
+  },
+  {
+    "id": "card-ab133B-RECON",
+    "unitId": "ab133B-RECON",
+    "category": "airborne_recon",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab133B-ENGINEER",
+    "unitId": "ab133B-ENGINEER",
+    "category": "airborne_engineer",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab133B-AIR_DEFENSE",
+    "unitId": "ab133B-AIR_DEFENSE",
+    "category": "airborne_air_defense",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab133B-SPECIAL_FORCES",
+    "unitId": "ab133B-SPECIAL_FORCES",
+    "category": "airborne_special_forces",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab134B-BN1",
+    "unitId": "ab134B-BN1",
+    "category": "airborne_battalion",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab134B-BN1-C1",
+      "card-ab134B-BN1-C2",
+      "card-ab134B-BN1-C3"
+    ],
+    "transportCost": 3
+  },
+  {
+    "id": "card-ab134B-BN1-C1",
+    "unitId": "ab134B-BN1-C1",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab134B-BN1"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab134B-BN1-C2",
+    "unitId": "ab134B-BN1-C2",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab134B-BN1"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab134B-BN1-C3",
+    "unitId": "ab134B-BN1-C3",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab134B-BN1"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab134B-BN2",
+    "unitId": "ab134B-BN2",
+    "category": "airborne_battalion",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab134B-BN2-C1",
+      "card-ab134B-BN2-C2",
+      "card-ab134B-BN2-C3"
+    ],
+    "transportCost": 3
+  },
+  {
+    "id": "card-ab134B-BN2-C1",
+    "unitId": "ab134B-BN2-C1",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab134B-BN2"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab134B-BN2-C2",
+    "unitId": "ab134B-BN2-C2",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab134B-BN2"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab134B-BN2-C3",
+    "unitId": "ab134B-BN2-C3",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab134B-BN2"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab134B-BN3",
+    "unitId": "ab134B-BN3",
+    "category": "airborne_battalion",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab134B-BN3-C1",
+      "card-ab134B-BN3-C2",
+      "card-ab134B-BN3-C3"
+    ],
+    "transportCost": 3
+  },
+  {
+    "id": "card-ab134B-BN3-C1",
+    "unitId": "ab134B-BN3-C1",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab134B-BN3"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab134B-BN3-C2",
+    "unitId": "ab134B-BN3-C2",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab134B-BN3"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab134B-BN3-C3",
+    "unitId": "ab134B-BN3-C3",
+    "category": "airborne_company",
+    "deployLimit": 1,
+    "excludes": [
+      "card-ab134B-BN3"
+    ],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab134B-ARTILLERY",
+    "unitId": "ab134B-ARTILLERY",
+    "category": "airborne_artillery",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 3
+  },
+  {
+    "id": "card-ab134B-LOGISTICS",
+    "unitId": "ab134B-LOGISTICS",
+    "category": "airborne_logistics",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 3
+  },
+  {
+    "id": "card-ab134B-RECON",
+    "unitId": "ab134B-RECON",
+    "category": "airborne_recon",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab134B-ENGINEER",
+    "unitId": "ab134B-ENGINEER",
+    "category": "airborne_engineer",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab134B-AIR_DEFENSE",
+    "unitId": "ab134B-AIR_DEFENSE",
+    "category": "airborne_air_defense",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 1
+  },
+  {
+    "id": "card-ab134B-SPECIAL_FORCES",
+    "unitId": "ab134B-SPECIAL_FORCES",
+    "category": "airborne_special_forces",
+    "deployLimit": 1,
+    "excludes": [],
+    "transportCost": 1
+  }
+]

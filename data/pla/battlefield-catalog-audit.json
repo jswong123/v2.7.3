@@ -1,0 +1,10 @@
+{
+  "version": "1.8.8",
+  "addedBattlefieldBrigades": [
+    "145B",
+    "91B"
+  ],
+  "addedRecords": 34,
+  "existingHonorRecords": 111,
+  "note": "仅对已知战场145B/91B建立静态映射；其余动态场景单位需要运行时登记才能保证全覆盖。"
+}

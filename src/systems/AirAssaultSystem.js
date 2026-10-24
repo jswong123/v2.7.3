@@ -1,0 +1,10 @@
+// 游戏模拟：建制直升机运送既有单位，禁止复制人员与无距离瞬移。
+export class AirAssaultSystem {
+ static distance(a,b){const dq=Number(a.q)-Number(b.q),dr=Number(a.r)-Number(b.r);return Math.max(Math.abs(dq),Math.abs(dr),Math.abs(dq+dr));}
+ static canFly(h,t,occupied=false){const d=t?this.distance(h,t):Infinity;return !!(h?.airUnit&&h?.airAssaultRole&&t&&!h.offMap&&!occupied&&d>0&&d<=6&&Number(h.actionPoints??0)>=1&&Number(h.fuel??0)>=5+d*3);}
+ static fly(h,t,occupied=false){if(!this.canFly(h,t,occupied))return false;if(!h.airAssaultBase)h.airAssaultBase={q:Number(h.q),r:Number(h.r)};const d=this.distance(h,t);h.q=Number(t.q);h.r=Number(t.r);h.fuel-=5+d*3;h.actionPoints-=1;h.hasMoved=true;return true;}
+ static canBoard(h,p){return !!(h?.airAssaultTransport&&p?.airAssaultCapable&&p.airAssaultStatus==='ground'&&!p.offMap&&h.faction===p.faction&&this.distance(h,p)<=1&&(h.airAssaultLiftRemaining??0)>=(p.airAssaultLiftCost??3)&&Number(h.fuel??100)>0&&Number(h.actionPoints??1)>0);}
+ static board(h,p){if(!this.canBoard(h,p))return false;h.airAssaultPassengers??=[];h.airAssaultPassengers.push(p.id);h.airAssaultLiftRemaining-=p.airAssaultLiftCost??3;p.airAssaultStatus='embarked';p.embarkedOn=h.id;p.offMap=true;p.actionPoints=0;p.movementPoints=0;p.hasActed=true;return true;}
+ static canLand(h,p,t,occupied=false){return !!(h?.airAssaultPassengers?.includes(p?.id)&&p.embarkedOn===h.id&&t&&!occupied&&this.distance(h,t)<=4&&!['water','sea','deep_water','cliff'].includes(String(t.terrain??t.type??'').toLowerCase())&&Number(h.fuel??100)>=Number(h.airAssaultFuelCost??15)&&Number(h.actionPoints??1)>0);}
+ static land(h,p,t,occupied=false){if(!this.canLand(h,p,t,occupied))return false;p.q=Number(t.q);p.r=Number(t.r);p.offMap=false;p.airAssaultStatus='ground';delete p.embarkedOn;p.actionPoints=0;p.movementPoints=0;p.hasActed=true;p.hasMoved=true;p.airborneDisorganized=1;h.airAssaultPassengers=h.airAssaultPassengers.filter(id=>id!==p.id);h.airAssaultLiftRemaining=Math.min(h.airAssaultLiftCapacity??99,(h.airAssaultLiftRemaining??0)+(p.airAssaultLiftCost??3));h.fuel=Number(h.fuel??100)-Number(h.airAssaultFuelCost??15);h.actionPoints=0;h.hasActed=true;return true;}
+}

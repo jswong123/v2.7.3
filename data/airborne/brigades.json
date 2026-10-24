@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ab127B",
+    "number": 127,
+    "displayCode": "ab127B",
+    "name": "第127空降旅",
+    "branch": "airborne",
+    "echelon": "brigade",
+    "authenticity": "fictional_placeholder",
+    "verified": false,
+    "honorName": null,
+    "templateId": "airborne_light_brigade_v1"
+  },
+  {
+    "id": "ab128B",
+    "number": 128,
+    "displayCode": "ab128B",
+    "name": "第128空降旅",
+    "branch": "airborne",
+    "echelon": "brigade",
+    "authenticity": "fictional_placeholder",
+    "verified": false,
+    "honorName": null,
+    "templateId": "airborne_light_brigade_v1"
+  },
+  {
+    "id": "ab130B",
+    "number": 130,
+    "displayCode": "ab130B",
+    "name": "第130空降旅",
+    "branch": "airborne",
+    "echelon": "brigade",
+    "authenticity": "fictional_placeholder",
+    "verified": false,
+    "honorName": null,
+    "templateId": "airborne_light_brigade_v1"
+  },
+  {
+    "id": "ab131B",
+    "number": 131,
+    "displayCode": "ab131B",
+    "name": "第131空降旅",
+    "branch": "airborne",
+    "echelon": "brigade",
+    "authenticity": "fictional_placeholder",
+    "verified": false,
+    "honorName": null,
+    "templateId": "airborne_light_brigade_v1"
+  },
+  {
+    "id": "ab133B",
+    "number": 133,
+    "displayCode": "ab133B",
+    "name": "第133空降旅",
+    "branch": "airborne",
+    "echelon": "brigade",
+    "authenticity": "fictional_placeholder",
+    "verified": false,
+    "honorName": null,
+    "templateId": "airborne_light_brigade_v1"
+  },
+  {
+    "id": "ab134B",
+    "number": 134,
+    "displayCode": "ab134B",
+    "name": "第134空降旅",
+    "branch": "airborne",
+    "echelon": "brigade",
+    "authenticity": "fictional_placeholder",
+    "verified": false,
+    "honorName": null,
+    "templateId": "airborne_light_brigade_v1"
+  }
+]
